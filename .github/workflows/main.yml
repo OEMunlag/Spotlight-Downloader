@@ -21,13 +21,17 @@ jobs:
         run: Expand-Archive -Path spotlight-download-archive.zip -DestinationPath .
       - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
-        run: Scripts\spotlight-download-archive.bat
-        run: Scripts\spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
       - name: Upload output files as artifact
         uses: actions/upload-artifact@v2
