@@ -1,0 +1,36 @@
+name: Spotlight Download Archive
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  download_archive:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Download latest tag/release
+        run: |
+          $url = "https://github.com/ORelio/Spotlight-Downloader/releases/latest/download/SpotlightDL-v1.4.5.zip"
+          $output = "spotlight-download-archive.zip"
+          Invoke-WebRequest -Uri $url -OutFile $output
+      - name: Unzip archive
+        run: Expand-Archive -Path spotlight-download-archive.zip -DestinationPath .
+      - name: Run Spotlight-Downloader.exe
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+        run: Scripts\spotlight-download-archive.bat
+      - name: Upload output files as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: spotlight-images
+          path: SpotlightArchive\*
