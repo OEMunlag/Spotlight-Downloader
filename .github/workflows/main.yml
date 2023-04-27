@@ -22,19 +22,19 @@ jobs:
       - name: Unzip archive
         run: cmd.exe /c dir .
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
-        run: Scripts\spotlight-download-archive.bat
+        run: spotlight-download-archive.bat
       - name: Upload output files as artifact
         uses: actions/upload-artifact@v2
         with:
