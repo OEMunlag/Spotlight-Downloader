@@ -18,7 +18,7 @@ jobs:
           $output = "spotlight-download-archive.zip"
           Invoke-WebRequest -Uri $url -OutFile $output
       - name: Unzip archive
-        run: Expand-Archive -Path spotlight-download-archive.zip -DestinationPath .
+        run: Expand-Archive -Path spotlight-download-archive.zip -Force -DestinationPath .
       - name: Run Spotlight-Downloader.exe
         run: Scripts\spotlight-download-archive.bat
       - name: Run Spotlight-Downloader.exe
