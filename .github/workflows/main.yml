@@ -12,13 +12,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: List directories and files before
-        run: dir /s
+        run: cmd /c dir /s
       - name: Run Spotlight-Downloader.bat
         run: cmd /c start spotlight-download-archive.bat
       - name: List directories and files after
-        run: dir /s
+        run: cmd /c dir /s
       - name: Configure git
-        run: |
+        run:
           git config user.name github-actions
           git config user.email github-actions@github.com
       - name: Stage changes
