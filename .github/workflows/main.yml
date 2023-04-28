@@ -15,6 +15,20 @@ jobs:
         run: cmd /c dir /s
       - name: Run Spotlight-Downloader.bat
         run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
+      - name: Run Spotlight-Downloader.bat
+        run: cmd /c start spotlight-download-archive.bat
       - name: List directories and files after
         run: cmd /c dir /s
       - name: Configure name
