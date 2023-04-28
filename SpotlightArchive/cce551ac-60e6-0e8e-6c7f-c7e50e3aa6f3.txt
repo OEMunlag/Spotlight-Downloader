@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cUWf?ver=1a42
+sha256=rFHlzOZgjg5sf8flDjqm86jifuw2/jq7NYRY9CTRRPQ=
+filesize=1733405
+title=Kilchurn Castle, Scotland
+copyright=© Wirestock / Adobe Stock
