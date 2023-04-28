@@ -21,6 +21,7 @@ jobs:
         run:
           git config --local user.name github-actions
       - name: Configure mail
+        run:
           git config --local user.email github-actions@github.com
       - name: Stage changes
         run: git add SpotlightArchive\*
