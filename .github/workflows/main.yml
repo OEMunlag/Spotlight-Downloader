@@ -17,9 +17,10 @@ jobs:
         run: cmd /c start spotlight-download-archive.bat
       - name: List directories and files after
         run: cmd /c dir /s
-      - name: Configure git
+      - name: Configure name
         run:
           git config --local user.name github-actions
+      - name: Configure mail
           git config --local user.email github-actions@github.com
       - name: Stage changes
         run: git add SpotlightArchive\*
