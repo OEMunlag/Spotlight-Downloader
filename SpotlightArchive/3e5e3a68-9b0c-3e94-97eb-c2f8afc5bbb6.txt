@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWT3V?ver=7bcb
+sha256=aDpePgyblD6X68L4r8W7tqSjh7AbBEFZDHK+4mqRCgA=
+filesize=1687035
+title=Malachite kingfisher
+copyright=© feathercollector / Adobe Stock

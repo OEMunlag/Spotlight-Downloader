@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55vH6?ver=1125
+sha256=BNwTQxPjpIVl0LkYDjAAX1HCrdILbu6hEv+hF2Wc4NA=
+filesize=1666020
+title=Gunung Leuser National Park, Sumatra
+copyright=© Bas Vermolen / Moment  / Getty Images

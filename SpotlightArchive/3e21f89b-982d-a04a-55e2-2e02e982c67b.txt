@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cFIU?ver=32c1
+sha256=m/ghPi2YSqBV4i4C6YLGeyD3aTes7InDkGMTTbaubkE=
+filesize=1800049
+title=El Yunque National Forest, Puerto Rico
+copyright=© Claudia Uripos / eStock Photo

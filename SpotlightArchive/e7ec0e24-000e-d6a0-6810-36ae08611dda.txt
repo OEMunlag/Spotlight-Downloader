@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWR39J?ver=c412
+sha256=JA7s5w4AoNZoEDauCGEd2sinrgf1Nm+R1uybHf10kvM=
+filesize=1845968
+title=Painting by John Frederick Kensett
+copyright=© The Metropolitan Museum of Art

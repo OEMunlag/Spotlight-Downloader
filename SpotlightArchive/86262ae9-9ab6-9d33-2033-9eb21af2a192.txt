@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cLbT?ver=9ea4
+sha256=6SomhraaM50gM56yGvKhksYt6fm6S0hcAaG94DGuXAM=
+filesize=1674040
+title=Salt Point State Park, California
+copyright=© Rainer Mirau / Huber / eStock Photo

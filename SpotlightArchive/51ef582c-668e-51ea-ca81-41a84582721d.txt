@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OaMY?ver=fa1e
+sha256=LFjvUY5m6lHKgUGoRYJyHUeFBZCl2TkPIjOXN2BZPV4=
+filesize=543891
+title=Puente del Inca, Argentina
+copyright=© Robert Harding World Imagery / Offset

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Roh6?ver=7885
+sha256=aiW3gzhnVMmsQqUA1zfw9k24ExBLEqlooUUbS34gKUM=
+filesize=1698705
+title=Toco toucan
+copyright=© robertharding / Alamy Stock Photo

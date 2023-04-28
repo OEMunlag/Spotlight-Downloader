@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN6Cc?ver=e80e
+sha256=7n4JjL+gmWj1lV7WP7BNjJO49gqIwCR3xHUIBqgfmPE=
+filesize=1801853
+title=Amami Guntō National Park, Japan
+copyright=© R. Ian Lloyd / Masterfile

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHljb?ver=4a7f
+sha256=hRpa9Va0y91FVB49mkanDr96tMn5UewbtxNsYJwo+OU=
+filesize=1781358
+title=Azenhas do Mar, Portugal
+copyright=© SeanPavonePhoto / Adobe Stock

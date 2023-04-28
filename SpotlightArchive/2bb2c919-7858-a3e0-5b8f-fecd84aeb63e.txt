@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSvU?ver=2366
+sha256=GcmyK1h44KNbj/7NhK62Pu9f9HmX1gM5gTN9dPJpajU=
+filesize=1697657
+title=Big Bend National Park, Texas
+copyright=© Susanne Kremer / Huber / eStock Photo

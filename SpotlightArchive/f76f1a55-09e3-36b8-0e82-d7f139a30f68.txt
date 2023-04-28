@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Y3X0?ver=15c2
+sha256=VRpv9+MJuDYOgtfxOaMPaCqAlFcz3IUDsnwjteM2zMQ=
+filesize=1631924
+title=Ecola State Park, Oregon
+copyright=© Lidija Kamansky / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWIyX?ver=4ece
+sha256=lg32XZJtOTUCOTGKXwjCEf8sYTBzKds6tcIUhYBlQRE=
+filesize=1717171
+title=Baobab tree
+copyright=© Jami Tarris / Stone / Getty Images

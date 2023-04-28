@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN3TF?ver=b7ed
+sha256=GLSuZInuM15JyiBlJSru/tvqfenr3g5PlGm5gONsnBw=
+filesize=1693547
+title=Cape Agulhas, South Africa
+copyright=© Mint Images / Masterfile

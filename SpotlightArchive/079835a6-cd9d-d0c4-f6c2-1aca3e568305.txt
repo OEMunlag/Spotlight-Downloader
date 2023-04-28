@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN1q1?ver=3b4b
+sha256=pjWYB53NxND2whrKPlaDBX6n4ekp4U867xFbHOeZc3M=
+filesize=1701535
+title=Valley of Fire State Park, Nevada
+copyright=© kwiktor / iStock / Getty Images Plus

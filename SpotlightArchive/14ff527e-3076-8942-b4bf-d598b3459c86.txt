@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHg6F?ver=9baf
+sha256=flL/FHYwQom0v9WYs0WchslCRTo1Tu3Z1ZIc90rVrG8=
+filesize=1729791
+title=Cannes, France
+copyright=© Stockbym / Alamy Stock Photo

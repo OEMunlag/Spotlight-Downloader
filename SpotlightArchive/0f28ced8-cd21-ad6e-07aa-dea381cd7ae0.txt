@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11jDs?ver=f340
+sha256=2M4oDyHNbq0Hqt6jgc164DWD5BHTm2e8ekDwyu3aU6M=
+filesize=1798172
+title=Dalton Highway, Alaska
+copyright=© mantaphoto / iStock / Getty Images

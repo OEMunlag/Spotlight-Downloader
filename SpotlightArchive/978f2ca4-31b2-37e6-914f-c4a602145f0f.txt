@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bHow?ver=20f3
+sha256=pCyPl7Ix5jeRT8SmAhRfD8W7jntHxS0rctI75XiFmSo=
+filesize=1449962
+title=Guilin, China
+copyright=© AWL Images / Design Pics

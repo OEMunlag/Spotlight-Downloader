@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O5f3?ver=c46b
+sha256=AZQaL5f3VDEP+saMHAOBbUg0cgI0RTVWbcB4+5cKb5U=
+filesize=570274
+title=Ngorongoro Crater, Tanzania
+copyright=© Robert Harding World Imagery / Offset

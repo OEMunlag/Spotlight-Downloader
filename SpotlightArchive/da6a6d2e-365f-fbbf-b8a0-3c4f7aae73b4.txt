@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RyGi?ver=98f5
+sha256=Lm1q2l82v/u4oDxPeq5ztBi/HJssb8idILcfx9diYaU=
+filesize=1807725
+title=Ennedi Plateau, Chad
+copyright=© Nikolay Khil / Alamy Stock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHqw8?ver=7926
+sha256=wj2qYAuHN8/vOYi7TiHFkwtqxEspakdcglfxc7KeywA=
+filesize=1709795
+title=Mount Rainier National Park, Washington
+copyright=© july7th / iStock / Getty Images Plus

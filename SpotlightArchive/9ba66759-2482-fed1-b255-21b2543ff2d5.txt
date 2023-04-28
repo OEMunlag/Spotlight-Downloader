@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O5fZ?ver=4899
+sha256=WWemm4Ik0f6yVSGyVD/y1V8S3zPlgUgCfLHM6/ov/RU=
+filesize=524095
+title=Lake Wakatipu, New Zealand
+copyright=© Cavan Images / Offset

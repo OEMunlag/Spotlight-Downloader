@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cNdn?ver=90ea
+sha256=QY6mBrER4Pf34IYxKpmHq6pw5JQdfhOwoEVljpA62EM=
+filesize=2034087
+title=Hoh Rainforest, Washington
+copyright=© Susanne Kremer / Huber / eStock Photo

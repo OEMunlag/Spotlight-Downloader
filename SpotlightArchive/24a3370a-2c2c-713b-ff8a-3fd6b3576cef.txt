@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWYpZ?ver=d978
+sha256=CjejJCwsO3H/ij/Ws1ds74pvdyQGPcrZcgy6YncfMrc=
+filesize=1777910
+title=Smith Rock State Park, Oregon
+copyright=© Alex Ratson / Moment / Getty Images

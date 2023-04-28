@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWYpD?ver=ec93
+sha256=EAg71trGhZSXiPZI+gs6LJ9drVVoug9eFNdkhJoWI6E=
+filesize=1749154
+title=Mount Bisoke, Rwanda
+copyright=© Yann / Adobe Stock

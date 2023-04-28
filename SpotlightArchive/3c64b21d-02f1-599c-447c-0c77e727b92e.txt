@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN1pp?ver=7ddd
+sha256=HbJkPPECnFlEfAx35ye5LoYyI6SOGrGBrkiOZnhKuV4=
+filesize=1766874
+title=Daisetsuzan National Park, Japan
+copyright=© Masterfile

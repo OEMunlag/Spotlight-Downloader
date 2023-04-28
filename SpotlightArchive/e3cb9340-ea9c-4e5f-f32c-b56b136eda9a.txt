@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSwe?ver=8021
+sha256=QJPL45zqX07zLLVrE27amsEh85S2ySOPJjOqSD2VlKI=
+filesize=1754011
+title=False Bay, South Africa
+copyright=© dsphotographycpt / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rj58?ver=2bc3
+sha256=JtAXEPJriZKm1k4X3FC91C48tR3OeGFs450uFSFcy7M=
+filesize=1829633
+title=Mullaghmore, Ireland
+copyright=© Junk Culture / Shutterstock

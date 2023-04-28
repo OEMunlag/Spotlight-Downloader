@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XTwJ?ver=4335
+sha256=Juh4HAl9Yp6t9CZTf8Oy9j60sVF1Nv87BSY2jA/a2/U=
+filesize=1826191
+title=Athens, Greece
+copyright=© anyaivanova / Shutterstock

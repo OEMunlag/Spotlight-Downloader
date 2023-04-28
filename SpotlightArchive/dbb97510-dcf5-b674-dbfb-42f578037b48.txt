@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWNeuv?ver=c9df
+sha256=EHW52/XcdLbb+0L1eAN7SEPOALubwV1RhoGbxsGujzA=
+filesize=1720193
+title=Horseshoe Bay, Bermuda
+copyright=© robertharding / Masterfile

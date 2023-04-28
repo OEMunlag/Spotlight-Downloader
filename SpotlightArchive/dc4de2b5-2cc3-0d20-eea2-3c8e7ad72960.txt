@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cLbx?ver=0047
+sha256=teJN3MMsIA3uojyOetcpYHsWQN8gc/b6Bgj3eb056NY=
+filesize=1740721
+title=Kalaat m'Gouna, Morocco
+copyright=© Rudolf Ernst / iStock / Getty Images Plus

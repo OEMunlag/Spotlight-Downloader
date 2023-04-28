@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHvIy?ver=9f2b
+sha256=Y+RivDV8pTCfBp3WEHV7Sn8aVx+mbfYWsYGBy9BYYIY=
+filesize=1743227
+title=Machu Picchu, Peru
+copyright=© PhotoLatino / eStock Photo

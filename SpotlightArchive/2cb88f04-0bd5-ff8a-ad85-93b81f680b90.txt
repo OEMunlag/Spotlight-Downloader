@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Xacx?ver=5db2
+sha256=BI+4LNULiv+thZO4H2gLkB7stPS4qUqCmExuY6P3K3Q=
+filesize=1718143
+title=Iwakuni, Japan
+copyright=© Christian Kober / robertharding / age footstock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWYpg?ver=41af
+sha256=6nCMSX2Tdr2/gslDs7pxAWudzF7PTzqsPoSBdYWVOmw=
+filesize=1868157
+title=Bandiagara Escarpment, Mali
+copyright=© Santiago Urquijo / Moment / Getty Images

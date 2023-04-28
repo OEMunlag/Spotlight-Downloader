@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55DMm?ver=6cdb
+sha256=XvWQ7oXORWZ2DR2yg6QDGFpQcA8BG2z1n6uLWs8IenQ=
+filesize=1854989
+title=Namaqua National Park, South Africa
+copyright=© Robert Postma / Design Pics

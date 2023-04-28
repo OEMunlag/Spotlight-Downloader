@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN8W9?ver=52e4
+sha256=/+g1+VocteYkrsRMCEbMjT09GUWtmfdc8InLI/HtNxo=
+filesize=1853500
+title=Himeji, Japan
+copyright=© gutarphotoghaphy / Fotosearch / age fotostock

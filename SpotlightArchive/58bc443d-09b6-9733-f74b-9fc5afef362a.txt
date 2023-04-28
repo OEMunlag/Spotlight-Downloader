@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55GjM?ver=ceb0
+sha256=PUS8WLYJM5f3S5/Fr+82KqwI6SsyGR34teGU7GvGlmI=
+filesize=1575433
+title=Los Flamencos National Reserve, Chile
+copyright=© Riska Parakeet / Shutterstock

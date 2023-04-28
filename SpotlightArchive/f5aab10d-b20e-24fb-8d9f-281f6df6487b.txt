@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50uS4?ver=0c5d
+sha256=DbGq9Q6y+ySNnygfbfZIexemDfYM2FOmw34ACp6QyM4=
+filesize=1552765
+title=Kufstein, Austria
+copyright=© Xantana / iStock / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bK4T?ver=b5a8
+sha256=blTwRLdkty2xBSok59v77AQFtnhcz+atM6WDrD2XZ5c=
+filesize=1826049
+title=Lefkada, Greece
+copyright=© Kizaru / Adobe Stock

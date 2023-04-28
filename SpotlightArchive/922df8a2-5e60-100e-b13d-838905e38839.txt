@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHdvB?ver=09f5
+sha256=ovgtkmBeDhCxPYOJBeOIOQ9N+neipNCi+AqA6Aeto+g=
+filesize=1821640
+title=Lanikai Beach, Hawaii
+copyright=© shanemyersphoto / Adobe Stock

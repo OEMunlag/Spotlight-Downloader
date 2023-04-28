@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMW3h?ver=4d75
+sha256=OOX7mhvh8+k2bFRA2GL8/fF7RrIZX5TphBvVfQlB+tE=
+filesize=1807067
+title=Kamishihoro, Japan
+copyright=© Masterfile

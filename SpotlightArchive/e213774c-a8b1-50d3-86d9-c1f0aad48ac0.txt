@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bMFG?ver=cbf2
+sha256=THcT4rGo01CG2cHwqtSKwJSoV/K/X7xInrAxu6W88v4=
+filesize=1739001
+title=Riaño, Spain
+copyright=© robertharding / Adobe Stock

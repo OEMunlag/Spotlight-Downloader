@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5c4SC?ver=a474
+sha256=2i2hX+a/Cbb6BNJyew2TC1LOvvuu7az7OJzVRufTbKU=
+filesize=1585431
+title=Haleakalā National Park, Hawaii
+copyright=© robertharding / Adobe Stock

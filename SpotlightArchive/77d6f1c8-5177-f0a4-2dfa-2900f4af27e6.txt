@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWYpu?ver=eb52
+sha256=yPHWd3dRpPAt+ikA9K8n5vp5NxzhG+Sz4mAtdeEQqCk=
+filesize=1767547
+title=Coyote Buttes, Arizona
+copyright=© Bernd Grundmann / Huber / eStock Photo

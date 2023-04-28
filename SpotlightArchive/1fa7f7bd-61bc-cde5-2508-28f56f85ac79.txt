@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWReB0?ver=7c83
+sha256=vfenH7xh5c0lCCj1b4WseeiikmWIq29ifyF/GhByCnM=
+filesize=1845500
+title=Painting by Jacob van Ruisdael
+copyright=© The Metropolitan Museum of Art

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN1pS?ver=37ee
+sha256=7oNsvJWsYqVXM1PnZI++DxI4QURiwzBF67BPsGnRTkI=
+filesize=1754905
+title=NGC 2313 emission nebula
+copyright=© ESA / NASA

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cznh?ver=69a5
+sha256=ZDMcvyvar3LaHBOFjWW8Cv+qDnk7nyZ4TPTTRGqFvtM=
+filesize=1556745
+title=Chicago, Illinois
+copyright=© MattFrankel / RooM / Getty Images

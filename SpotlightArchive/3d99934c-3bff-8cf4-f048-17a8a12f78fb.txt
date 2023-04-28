@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XQV8?ver=79dc
+sha256=TJOZPf879IzwSBeooS94+7bS+9pHxbzWN78KxUR3q34=
+filesize=1690871
+title=Akiyoshidai, Japan
+copyright=© Aflo Relax / Masterfile

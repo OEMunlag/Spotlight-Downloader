@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bZCv?ver=9896
+sha256=FD8cd81+ZyOFRgGUk0w6FRxxuKts/pZm0QEvu+3Pq2M=
+filesize=1747489
+title=Agrigento, Italy
+copyright=© Michael Knöbl / Adobe Stock

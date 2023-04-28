@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11u49?ver=2500
+sha256=5lBtwqwjijF7KSH6o9LlqZIDfSyuM+KR7Kzqp7XIj1Y=
+filesize=1800751
+title=Calanque d'En Vau, France
+copyright=© Daniel Kloe / EyeEm / Getty Images

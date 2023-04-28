@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50sfb?ver=d17c
+sha256=FB/MczrGu2oXXN2NCXDrbTZLGsRVdOmfIZ1ayA5FY38=
+filesize=1633895
+title=Lake Tekapo, New Zealand
+copyright=© Marcel Rudolph-Gajda / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55ypa?ver=7e9f
+sha256=ZOrU7GorkqoS001kboa5KvG1+/iNLGIQvz8/rJi3D6Q=
+filesize=1750067
+title=Robberg Nature Reserve, South Africa
+copyright=© Bertrand Godfroid / Alamy Stock Photo

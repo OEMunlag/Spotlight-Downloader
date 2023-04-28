@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11wTC?ver=f69c
+sha256=trZfSzoAq+F22vVUfmn4h6gGO9qDBvul3Z3hJ1f+GCk=
+filesize=2076769
+title=Grand Teton National Park, Wyoming
+copyright=© Don Smith / Photodisc / Getty Images

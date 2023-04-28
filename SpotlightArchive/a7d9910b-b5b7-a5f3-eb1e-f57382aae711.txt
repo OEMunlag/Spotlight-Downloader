@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMW2W?ver=0b0c
+sha256=C5HZp7e186XrHvVzgqrnEX0Da9OioYF8FQIOhoBPmO4=
+filesize=1743785
+title=Chamonix, France
+copyright=© Luca Gino / Sime / eStock Photo

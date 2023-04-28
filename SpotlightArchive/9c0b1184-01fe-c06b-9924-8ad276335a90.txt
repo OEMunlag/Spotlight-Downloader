@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50Fei?ver=2ac1
+sha256=hBELnP4Ba8CZJIrSdjNakPkeGL1CNdzll+b8aLSFrdc=
+filesize=1731991
+title=Civita di Bagnoregio, Italy
+copyright=© AWL Images / Masterfile

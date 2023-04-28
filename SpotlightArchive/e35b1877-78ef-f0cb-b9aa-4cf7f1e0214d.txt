@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bME2?ver=e7de
+sha256=dxhb4+94y/C5qkz38eAhTWXCM2Hn8U8k5YgnjX+l05Q=
+filesize=1770198
+title=Chittorgarh, India
+copyright=© saiko3p/ Adobe Stock

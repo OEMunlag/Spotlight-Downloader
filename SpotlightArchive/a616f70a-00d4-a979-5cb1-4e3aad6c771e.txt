@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMW3b?ver=9c84
+sha256=CvcWptQAealcsU46rWx3Ht7INlzfCoPIbojv8fG0b7Y=
+filesize=1807710
+title=Glendurgan Garden, England
+copyright=© Snowshill / iStock / Getty Images Plus

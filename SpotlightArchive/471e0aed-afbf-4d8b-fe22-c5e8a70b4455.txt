@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50KwJ?ver=b5ee
+sha256=7QoeR7+vi03+IsXopwtEVQt1pT6p0J3wVPmy/B9EYt4=
+filesize=1737746
+title=Eastern Cape, South Africa
+copyright=© lennjo / iStock / Getty Images Plus

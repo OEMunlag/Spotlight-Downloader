@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OaNk?ver=3e11
+sha256=IA/hhtTCC/E7PlUjZWC6z1ohvS+Ci6HRyNNy37lv1bQ=
+filesize=974056
+title=South Moravian Region, Czech Republic
+copyright=© Cavan Images / Offset

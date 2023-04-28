@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWIzh?ver=18a0
+sha256=L19NS38jRLFd6/FKhEbjY/CNdFkSYt7jx8S+R04x8Uw=
+filesize=1642631
+title=Lake Albert, Uganda
+copyright=© Joel Sartore Photography / Design Pics

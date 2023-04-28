@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55LIp?ver=1cb0
+sha256=FWpgKU8VIhsCRldNG9n55I5OIr5MzlO5kbVk9htPNVQ=
+filesize=1576426
+title=Lake Kussharo, Japan
+copyright=© Danita Delimont on Offset / Shutterstock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWfEK?ver=ed31
+sha256=SFmoiOaa8t3xxCXs9Op7gZ2DrD/eLp0QHzBStm8TNgQ=
+filesize=1849594
+title=White Desert, Egypt
+copyright=© Aldo Pavan / Sime / eStock Photo

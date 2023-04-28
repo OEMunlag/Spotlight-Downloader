@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cUW5?ver=b872
+sha256=Wi+c5h4gqbqhwj7lZGZ/7g9L/Fx3RHWRvXz6+XuBCqI=
+filesize=1749795
+title=Gaztelugatxe, Spain
+copyright=© makasana photo / Adobe Stock

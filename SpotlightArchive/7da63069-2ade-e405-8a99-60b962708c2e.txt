@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMYIW?ver=4c79
+sha256=aTCmfd4qBeSKmWC5YnCMLswC1uEwQtWrYw4iWcuB0Bw=
+filesize=1719436
+title=Engetsu Island, Japan
+copyright=© Ployprapai Mongkolsamai / Shutterstock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHqvX?ver=4be4
+sha256=ZT/fMrYMH3ryNz8OPCVxnvUXUm/z+zB25roRePVdxok=
+filesize=1849999
+title=Granite Island, Australia
+copyright=© Oliver_Koch / iStock / Getty Images Plus

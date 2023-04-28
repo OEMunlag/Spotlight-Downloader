@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O2MN?ver=4543
+sha256=R1eCaAte0NKyJwR4lpaPuqHN22N71RrquZ5+38WiaEo=
+filesize=578263
+title=Krummhörn, Germany
+copyright=© McPHOTO / Blickwinkel / age fotostock

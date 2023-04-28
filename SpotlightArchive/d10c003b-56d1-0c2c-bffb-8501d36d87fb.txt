@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11rrf?ver=bef6
+sha256=OwAM0dFWLAy/+4UB022H+5MBgUnBpvIC1YraKEJgVcs=
+filesize=1550700
+title=Amsterdam, Netherlands
+copyright=© Daniel Viñé Garcia / Moment / Getty Images

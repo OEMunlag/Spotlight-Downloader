@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O2N9?ver=a4d8
+sha256=zZb3l60UssiZvs5jVgzHcayIwaJKXBASeZA/q8oRjTA=
+filesize=654200
+title=Andøya, Norway
+copyright=© Matthias Aletsee / Westend61

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NZV9?ver=0be6
+sha256=xrrkCeynPT9OhAntkR2eu6cYyNEp2Ir6ZH4cSWvYZvw=
+filesize=745472
+title=Granada, Spain
+copyright=© Alpineguide / Alamy Stock Photo

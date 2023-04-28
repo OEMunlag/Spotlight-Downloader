@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11bQO?ver=0fd6
+sha256=phyDt90BzlhS0Bizb8cRqYKGTzlJda6rTMq4nbKas/Q=
+filesize=1738521
+title=Ponte Vecchio bridge, Italy
+copyright=© Stefano Coltelli / SOPA / eStock Photo

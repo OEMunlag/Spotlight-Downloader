@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bMEe?ver=cf78
+sha256=SKA9gJ7saHM0z3e7RXVxhR9qc2HSzCIrKnhhhwDEEXE=
+filesize=1739165
+title=Derwent Edge, England
+copyright=© robertharding / Adobe Stock

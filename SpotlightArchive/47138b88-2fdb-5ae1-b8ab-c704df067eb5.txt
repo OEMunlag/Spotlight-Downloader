@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cPXq?ver=f444
+sha256=iIsTR9sv4Vq4q8cE3wZ+tVSmIFvZYeFp5wEzWN+JhSQ=
+filesize=1856369
+title=Merced River, California
+copyright=© Image by Chris Winsor / Moment / Getty Images

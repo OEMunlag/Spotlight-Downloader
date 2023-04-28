@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50pCB?ver=6263
+sha256=gaRxNFW87NvOzOpMDrlV1WZf6iW1dY5Qw21STPLpCXE=
+filesize=1669947
+title=Bartolomé Island, Ecuador
+copyright=© Grispb / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cFIn?ver=e59c
+sha256=9t+Lbok1rGD/XZeDju8XFgn7Q/TcAuf9px7WmAA7Ykc=
+filesize=1559279
+title=Aiguille du Midi, France
+copyright=© Jakub Polomski Images / Offset / Shutterstock

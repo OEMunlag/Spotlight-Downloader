@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWLA9?ver=b5bb
+sha256=1ckFjXdwG0YuO+2FON/+MvCoOw56YMEb2rM3nxOmats=
+filesize=1823796
+title=Blackrock Castle, Ireland
+copyright=© Patryk Kosmider/ Adobe Stock

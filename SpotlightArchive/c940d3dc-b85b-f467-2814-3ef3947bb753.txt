@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55ypi?ver=60e2
+sha256=3NNAyVu4Z/QoFD7zlHu3U5hWvJFOhl6CniDvPhS0+gQ=
+filesize=1672582
+title=Galápagos Islands, Ecuador
+copyright=© Maridav / Shutterstock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NZVs?ver=cd99
+sha256=5GDF5DtgloTgNNmaIFVzSwcS6YdkQGolPjJOq7eKqP0=
+filesize=813391
+title=Krimml Waterfalls, Austria
+copyright=© borchee / E+ / Getty Images

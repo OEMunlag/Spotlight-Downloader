@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5c4Tj?ver=3fdb
+sha256=FXVje7DaGhCPF/Fqq1hLkn8I+lHL53k+Og19n/dhirs=
+filesize=1853818
+title=Mekong Delta, Vietnam
+copyright=© Hien Phung / Adobe Stock

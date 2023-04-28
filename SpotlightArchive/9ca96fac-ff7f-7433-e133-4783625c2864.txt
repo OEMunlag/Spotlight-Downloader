@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NUVn?ver=38c4
+sha256=rG+pnH//M3ThM0eDYlwoZAdrbgw3sqNszE0SK8Fhvx0=
+filesize=311879
+title=Bear Mountain Bridge, New York
+copyright=© Ultima_Gaina / iStock/ Getty Images Plus

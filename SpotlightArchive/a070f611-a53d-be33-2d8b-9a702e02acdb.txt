@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50pCH?ver=0fd9
+sha256=EfZwoD2lM74ti5pwLgKs2+kD/6yO9sMc3Nt9z08Vr+U=
+filesize=1743031
+title=Lofoten Islands, Norway
+copyright=© den-belitsky / iStock / Getty Images

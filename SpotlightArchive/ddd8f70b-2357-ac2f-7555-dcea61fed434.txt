@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHt7x?ver=9802
+sha256=C/fY3VcjL6x1VdzqYf7UNDbOOO1JaiqR1z5dkXMnGqo=
+filesize=1701143
+title=Springbrook National Park, Australia
+copyright=© AzmanL / iStock / Getty Images Plus

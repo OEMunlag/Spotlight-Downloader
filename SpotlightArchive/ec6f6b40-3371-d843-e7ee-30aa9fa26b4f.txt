@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWAME?ver=9ef5
+sha256=QGtv7HEzQ9jn7jCqn6JrT1FHW79P5ZL36UxL0UapPQc=
+filesize=1871813
+title=Biarritz, France
+copyright=© unai / Adobe Stock

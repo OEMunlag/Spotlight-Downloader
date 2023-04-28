@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN6Da?ver=b599
+sha256=QOHgGImRaUX5vySbwjEM1ICwacF75vgcJ9QNrL0ST60=
+filesize=1789092
+title=Necklace Nebula
+copyright=© ESA / NASA

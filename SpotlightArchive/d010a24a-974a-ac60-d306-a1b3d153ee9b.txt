@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55OgV?ver=0017
+sha256=SqIQ0EqXYKzTBqGz0VPum0FUY/2yjdIBdLF4efoqoUU=
+filesize=1706765
+title=Erawan National Park, Thailand
+copyright=© Phornphon Srimoaon / Moment / Getty Images

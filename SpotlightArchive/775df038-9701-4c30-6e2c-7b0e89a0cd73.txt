@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11u4x?ver=3633
+sha256=OPBddwGXMExuLHsOiaDNc99f1cDUMF1ceVcQgXZdHfY=
+filesize=1751990
+title=Theodore Roosevelt Park, North Dakota
+copyright=© Paul Souders / Stone / Getty Images

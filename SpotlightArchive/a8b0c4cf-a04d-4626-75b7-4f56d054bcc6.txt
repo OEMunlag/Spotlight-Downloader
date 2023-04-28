@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHdvJ?ver=c5ef
+sha256=z8SwqE2gJkZ1t09W0FS8xvki2nNpxL78nCFj/Cy3ZMo=
+filesize=1657702
+title=Barcelona, Spain
+copyright=© TowPix / eStock Photo

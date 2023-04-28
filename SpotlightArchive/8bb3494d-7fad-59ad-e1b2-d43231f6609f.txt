@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cIxV?ver=0108
+sha256=TUmzi61/rVnhstQyMfZgn4j8rM/9jXzZSUr7/IATMhA=
+filesize=1784967
+title=Stellenbosch, South Africa
+copyright=© Ben Pipe / Sime / eStock Photo

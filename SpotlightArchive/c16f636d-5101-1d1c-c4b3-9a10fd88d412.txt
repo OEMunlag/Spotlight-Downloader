@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cDtj?ver=0dcf
+sha256=bWNvwQFRHB3Es5oQ/YjUEsdpVd4MSI9ERpr00tkSu10=
+filesize=1673190
+title=Grand Canyon National Park, Arizona
+copyright=© Bernd Grundmann / Huber / eStock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cLbs?ver=f4fa
+sha256=9iD8lEyi2DOmf7730TyP4MWtynePSZ4gZ2nyU5Zb1wQ=
+filesize=1816759
+title=Hocking Hills State Park, Ohio
+copyright=© sara_winter / iStock / Getty Images Plus

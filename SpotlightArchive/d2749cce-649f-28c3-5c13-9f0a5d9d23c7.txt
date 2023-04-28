@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWAMZ?ver=2099
+sha256=zpx00p9kwyhcE58KXZ0jx/Sv7UeDPKtjHlCz8uv1nfE=
+filesize=1787821
+title=Queen Elizabeth National Park, Uganda
+copyright=© duelune / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bMDV?ver=40b2
+sha256=6/7bwEeWjVZa15iDlG1/rkPz2vOl3d/zw/xAkJ2YmwM=
+filesize=1759809
+title=Bardenas Reales, Spain
+copyright=© ADDICTIVE STOCK / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O88m?ver=8cd0
+sha256=jojnJnyHdhTNo1GiTSyYOUYPkeg1Lkoe98hTCxRKZjs=
+filesize=565561
+title=Transylvania, Romania
+copyright=© Jeremy Woodhouse / DIgitalVision / Getty Images

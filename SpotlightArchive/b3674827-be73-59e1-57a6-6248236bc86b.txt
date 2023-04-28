@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NZUY?ver=e0e7
+sha256=J0hns3O+4VlXpmJII2vIa1RPssAt87q8ThWpE7vsTTs=
+filesize=754408
+title=Angkor Wat, Cambodia
+copyright=© Sorin Colac / Alamy Stock Photo

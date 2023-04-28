@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Y1n5?ver=e3fe
+sha256=Ys0Ap5FRR07IP5IrxWcO2pB0hbb57h4cbhXXdpgkRxw=
+filesize=1759037
+title=Pragser Wildsee, Italy
+copyright=© Patryk Kosmider / Shutterstock

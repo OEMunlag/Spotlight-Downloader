@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55Oh1?ver=7c1b
+sha256=30K0o3pPP8BSlm/XO77ZzSvgThCpaCfsFTbMQlVq3E4=
+filesize=1630663
+title=Dendera Temple, Egypt
+copyright=© Terence Waeland / Design Pics

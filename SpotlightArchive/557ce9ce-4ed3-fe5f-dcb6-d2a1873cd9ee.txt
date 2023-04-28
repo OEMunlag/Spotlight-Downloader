@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cFJf?ver=7ad3
+sha256=zul8VdNOX/7cttKhhzzZ7ixY+CT4Ovqr+gC54pyQ5LU=
+filesize=1716369
+title=Red squirrel
+copyright=© Alan Tunnicliffe Photography / Moment / Getty Images

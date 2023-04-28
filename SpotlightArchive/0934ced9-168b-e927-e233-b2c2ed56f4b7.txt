@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cUW7?ver=24fb
+sha256=2c40CYsWJ+niM7LC7Vb0t4wHOFAapluxi2qiCchmbD8=
+filesize=1566974
+title=Golden Gate Highlands, South Africa
+copyright=© Ben Pipe / Sime / eStock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW119dl?ver=b85c
+sha256=6XPLzo5bHloRsnx2RECpFeq4gszChQEjxtZFgU/Lqz0=
+filesize=1572889
+title=Happisburgh Lighthouse, England
+copyright=© Andrew Boxall / Moment / Getty Images

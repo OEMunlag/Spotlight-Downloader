@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RGus?ver=0114
+sha256=85C4wRlYSA5YH1eehKd+mFYYrNKvc/c6BVcG0K+BakQ=
+filesize=1288824
+title=Goiás, Brazil
+copyright=© Cavan Images / Offset / Shutterstock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHiI1?ver=cf00
+sha256=5hfEMCu+WfAfN+5xKMAtYDOXvscZM8ISUDs0DsDaCFE=
+filesize=1797264
+title=Ilkley Moor, England
+copyright=© Stephen Dinsdale / Alamy Stock Photo

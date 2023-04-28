@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSwx?ver=354f
+sha256=il47/lm2rSV6vMAFBUYIdEJ+4WfiqXyb9bqVmkDA450=
+filesize=1702776
+title=Kogel Bay, South Africa
+copyright=© Ben Pipe / Sime / eStock Photo

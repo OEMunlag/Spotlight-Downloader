@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4WWR1?ver=8389
+sha256=0cdSpy93LgeiWWC0F5eJ/XHe+yS9jYSj9U1T8vqPf1I=
+filesize=1761650
+title=Grandfather Mountain, North Carolina
+copyright=© SeanPavonePhoto / Adobe Stock

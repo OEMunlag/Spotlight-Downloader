@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11rrn?ver=6eda
+sha256=2XRDVRclFyfO4ItfYuAuYAWp8EN4HkfY98t6uho2dHU=
+filesize=1798235
+title=Nusa Lembongan, Indonesia
+copyright=© Didier Marti / Moment / Getty Images

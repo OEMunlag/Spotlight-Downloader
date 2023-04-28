@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11u48?ver=4445
+sha256=fWc6iLHbnsnMpkoAGuz3ppIjZceMDBeu1bq6rE8ZWi0=
+filesize=1697673
+title=Bastei Bridge, Germany
+copyright=© Francesco Carovillano / SOPA / eStock Photo

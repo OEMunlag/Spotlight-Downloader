@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OaNG?ver=d9b3
+sha256=cBrpChRHrXF4MZGt7upFWHp14Sp3g818j3ByznOX+WM=
+filesize=767287
+title=Canyonlands National Park, Utah
+copyright=© AWL Images / Offset

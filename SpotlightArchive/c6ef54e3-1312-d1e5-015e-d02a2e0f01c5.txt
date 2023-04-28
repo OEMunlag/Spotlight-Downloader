@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSwZ?ver=bca0
+sha256=41TvxhIT5dEBXtAqLg8BxSeaUaOXTCfJG4roOaQIMWI=
+filesize=1750338
+title=Lampang Province, Thailand
+copyright=© pa_YON / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHvIJ?ver=e44c
+sha256=QgvKtB6AIjQzKapyjTU3Kw+QDkJP2LbWpAUDv4q5t/w=
+filesize=1718768
+title=Man of War Bay, England
+copyright=© merc67 / iStock / Getty Images Plus

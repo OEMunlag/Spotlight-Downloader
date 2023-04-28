@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rj5f?ver=3684
+sha256=C/wTx0Qc+h+uvZ9CuOVRlZNkAnFWhGDHnUiShd/gP/A=
+filesize=1879402
+title=Kumamoto, Japan
+copyright=© Image navi - QxQ images / Alamy Stock Photo

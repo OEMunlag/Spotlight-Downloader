@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4WUmj?ver=b359
+sha256=Ke1QP5RMGg65yKZtuplN4lrCguMX1b60MRbfhkVaZ00=
+filesize=1556829
+title=Grand Canyon, Arizona
+copyright=© photoff / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW119dp?ver=7167
+sha256=Tzcmt+vqQJng38WnOl6UIRismP3eaTR2I7GG3vawDz0=
+filesize=1799951
+title=Jade Dragon Snow Mountain, China
+copyright=© SW Photography / Digital Vision / Getty Images

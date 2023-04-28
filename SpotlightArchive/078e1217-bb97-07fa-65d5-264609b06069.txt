@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSwU?ver=1fc5
+sha256=FxKOB5e7+gdl1SZGCbBgacnCKDbVmu/ivTwiVfFU3Tw=
+filesize=1809050
+title=Acadia National Park, Maine
+copyright=© Sceninc Media / Adobe Stock

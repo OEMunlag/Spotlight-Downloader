@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bHoB?ver=b10d
+sha256=xU+ujoGdKFt8A3ScbYqUjY+rU19hHWAP4S0Z6Bp6Rgc=
+filesize=1777609
+title=The Ruhr, Germany
+copyright=© imageBROKER / Alamy Stock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50uRJ?ver=41fc
+sha256=gzUMpUZR5xAuO3vJib2OpHSvTxYqnkUn0m9oveE9G6c=
+filesize=1579514
+title=Dunluce Castle, Northern Ireland
+copyright=© Shawn / Adobe Stock

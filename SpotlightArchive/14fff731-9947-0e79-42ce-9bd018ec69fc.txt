@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHnUQ?ver=286b
+sha256=Mff/FEeZeQ5CzpvQGOxp/GR60GQbF1Bs8PICWn9eCfo=
+filesize=1730442
+title=Montserrat Mountain, Spain
+copyright=© tacstef / iStock / Getty Images Plus

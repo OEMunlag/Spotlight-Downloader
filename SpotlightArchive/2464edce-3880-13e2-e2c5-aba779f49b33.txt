@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bPf3?ver=f7cd
+sha256=zu1kJIA44hPixaunefSbMwFDp0v09L0g2p7rGMVzx+g=
+filesize=1775082
+title=Grossglockner High Alpine Road, Austria
+copyright=© Mariusz Niedzwiedzki / Adobe Stock

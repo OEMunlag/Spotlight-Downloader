@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5czne?ver=1222
+sha256=Eo7qYRtijkYlBBlVtz2XnPD8rWmpQEurdhTAe/a4aiY=
+filesize=1814881
+title=Dorset, England
+copyright=© RooM The Agency / Adobe Stock

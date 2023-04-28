@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11esz?ver=3295
+sha256=yhEQ+/zq7lYOmGtyIvTrKY54eZEiqAwXDpNe6PBEZ90=
+filesize=1761614
+title=Rio de Janeiro, Brazil
+copyright=© Antonino Bartuccio / SOPA / eStock Photo

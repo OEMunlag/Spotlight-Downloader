@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rw5w?ver=3a59
+sha256=urS9FxSeD1/ddfMQqJYSLRdQza0C/HqCl3wFeJvJS9U=
+filesize=1678432
+title=Lake Assal, Djibouti
+copyright=© ALEXANDER BEE / Alamy Stock Photo

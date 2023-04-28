@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN8Wk?ver=41aa
+sha256=M5rmGHWKYkOGMFKNoo6X8IF/m4FYzjDL0wJbMl9ciVI=
+filesize=1841605
+title=Kimitsu, Japan
+copyright=© Aflo Relax / Masterfile

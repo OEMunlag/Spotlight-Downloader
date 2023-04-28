@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11u4p?ver=6dea
+sha256=gbPEO7CyN5dLV02Hs4LJv45xhVUIhreIMJ1ggvQGM0E=
+filesize=1719297
+title=Palawan, Philippines
+copyright=© Atlantide Phototravel / Corbis Documentary / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWQY6w?ver=ccc2
+sha256=86dtLmllCj+K1amiGa2zsUjf5ZUDQThDaXxXCdXFNGM=
+filesize=1674310
+title=Painting by Albert Bierstadt
+copyright=© The Metropolitan Museum of Art

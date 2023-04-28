@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rw5s?ver=cacd
+sha256=PFFgw4BpDOlybjYkrY6MRAsXkxoJ30CNitIBlJkboc0=
+filesize=1744499
+title=Guelta d'Archei, Chad
+copyright=© Beata Tabak / Alamy Stock Photo

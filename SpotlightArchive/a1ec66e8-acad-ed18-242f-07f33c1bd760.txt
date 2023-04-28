@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55INR?ver=519c
+sha256=6Gbsoa2sGO0kLwfzPBvXYNj/0HeuuwHWeHprMBmzvtM=
+filesize=1652308
+title=Keoladeo National Park, India
+copyright=© Sourabh Bharti / Shutterstock

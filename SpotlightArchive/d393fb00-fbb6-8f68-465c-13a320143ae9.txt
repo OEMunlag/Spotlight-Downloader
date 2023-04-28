@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHnUM?ver=9f29
+sha256=APuT07b7aI9GXBOjIBQ66RKbt4zW4wwJQA3k6GdQrLk=
+filesize=1697804
+title=Matinloc Island, Philippines
+copyright=© kjorgen / iStock / Getty Images Plus

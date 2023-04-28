@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bUqo?ver=12db
+sha256=5y4bIp1AJ9dqwFodEUhUMTm5wiiFGyxWJYAwDXo/cQ8=
+filesize=1800258
+title=Singleton, England
+copyright=© Anthony Hall/ Adobe Stock

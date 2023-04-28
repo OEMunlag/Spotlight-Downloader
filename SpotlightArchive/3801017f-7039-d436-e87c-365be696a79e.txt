@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NUV0?ver=4f4f
+sha256=fwEBODlwNtTofDZb5panniMpcbOyXEsLTJ/r/Uow1fw=
+filesize=646759
+title=Resurrection Bay, Alaska
+copyright=© Cavan Images / Offset

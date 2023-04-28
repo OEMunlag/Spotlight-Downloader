@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55B7D?ver=b25f
+sha256=WWn2KV/w0215QCtuuc1PA9PMcO5gEo4ySU3coRqRkEs=
+filesize=1797716
+title=Arenal Volcano National Park, Costa Rica
+copyright=© David Noton Photography / Alamy Stock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cPX2?ver=ad25
+sha256=7p5lO9NWcYM9i7Go9udMdwOGBORWK1RSch1Ljad+dNk=
+filesize=1789277
+title=Goblin Valley State Park, Utah
+copyright=© Roland Gerth / Huber / eStock Photo

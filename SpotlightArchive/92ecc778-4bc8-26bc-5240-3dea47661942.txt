@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Roi1?ver=9d3f
+sha256=eMfskshLvCZSQD3qR2YZQhXFuMnJQTsJdZFjmBAf/5I=
+filesize=1758188
+title=Mount Roraima, Venezuela
+copyright=© Marcel Rabelo / Alamy Stock Photo

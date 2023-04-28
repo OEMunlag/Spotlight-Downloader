@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bX58?ver=a6bf
+sha256=AecEjYNFkTVAG2mp297hdIFCV/y79sgEOzX6SfauDuI=
+filesize=1729669
+title=Tossa de Mar, Spain
+copyright=© Artur Debat / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHg7c?ver=f74d
+sha256=Dc0SuPnvrtO++9KUzPrSYN32ZN/18TRS0V/Gz53CyD4=
+filesize=1742655
+title=Royal Flora Ratchaphruek, Thailand
+copyright=© Kamon Supasawat / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NXnV?ver=7ff4
+sha256=uFUeQgi8Raeaj3c+QXMIYfHlOCy+Vkqw1073PENkaz4=
+filesize=811231
+title=Petty Harbour-Maddox Cove, Canada
+copyright=© Jacek Sopotnicki / Alamy Stock Photo

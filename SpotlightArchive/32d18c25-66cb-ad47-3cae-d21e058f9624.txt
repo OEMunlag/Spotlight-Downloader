@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50pD9?ver=66c4
+sha256=JYzRMstmR608rtIeBY+WJHh2oqVkB1Tftpc6qjENaZk=
+filesize=1732065
+title=West Sussex, England
+copyright=© Karlheinz Irlmeier/ imageBROKER / age fotostock

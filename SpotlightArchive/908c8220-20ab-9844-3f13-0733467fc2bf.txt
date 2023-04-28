@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RtuO?ver=2c8f
+sha256=IIKMkKsgRJg/EwczRn/CvylNF2pIiNC/GJlFKmjtkSI=
+filesize=1868462
+title=Hachijō-jima, Japan
+copyright=© Sean Pavone / Alamy Stock Photo

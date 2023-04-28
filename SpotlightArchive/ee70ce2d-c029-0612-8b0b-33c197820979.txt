@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN8VU?ver=7dc3
+sha256=Lc5w7inAEgaLCzPBl4IJeULBMyG6hLcy+t/K7P9kBh4=
+filesize=1735906
+title=Canyons of the Escalante, Utah
+copyright=© Westend61 GmbH / Alamy Stock Photo

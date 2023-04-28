@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5c2hX?ver=9fd3
+sha256=zykqG1dbCUkX5obnYOFL0ll6s/tS7Vj9+8rImMUN8Y8=
+filesize=1699881
+title=Ooidonk Castle, Belgium
+copyright=© Nikolai Sorokin / Adobe Stock

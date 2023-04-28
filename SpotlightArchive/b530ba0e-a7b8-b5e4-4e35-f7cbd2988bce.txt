@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWAMX?ver=fc4b
+sha256=Drowtbin5LVONffL0piLztAega5I2kymYxBTIkricK4=
+filesize=1681750
+title=Lindesnes Lighthouse, Norway
+copyright=© Andrey Armyagov / Adobe Stock

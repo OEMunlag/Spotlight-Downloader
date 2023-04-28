@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11rrK?ver=682b
+sha256=/5SWQKMtLno+Aju7NATTr6aRDbLtkjQP4LMUT1TEKsk=
+filesize=1827078
+title=San Juan Mountains, Colorado
+copyright=© Brad McGinley Photography / Moment / Getty Images

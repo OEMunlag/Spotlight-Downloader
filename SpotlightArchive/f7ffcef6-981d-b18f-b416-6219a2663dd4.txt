@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHnV9?ver=8a58
+sha256=9s7/9x2Yj7G0FmIZomY91NhM8PA5KfoCtZ1xox8/4bc=
+filesize=1683002
+title=Samaná Bay, Dominican Republic
+copyright=© Ultima_Gaina / iStock / Getty Images Plus

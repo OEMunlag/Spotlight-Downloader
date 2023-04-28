@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XTwY?ver=47fc
+sha256=+D6FF6WgrZ5+/wwIEuw2h8+khN5ZhfmuYsOCXkq+baI=
+filesize=1608221
+title=Stanley, Australia
+copyright=© Michael R Evans / shutterstock

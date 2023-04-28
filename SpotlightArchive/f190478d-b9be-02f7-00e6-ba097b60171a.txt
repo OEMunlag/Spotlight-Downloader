@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RBhE?ver=f4c1
+sha256=jUeQ8b659wIA5roJe2AXGiFc27aDqBcYap3Kv0zr/uw=
+filesize=1837396
+title=Acadia National Park, Maine
+copyright=© Stan Dzugan / Moment / Getty Images

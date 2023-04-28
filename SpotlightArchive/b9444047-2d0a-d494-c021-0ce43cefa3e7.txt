@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWGpB?ver=167f
+sha256=R0BEuQotlNTAIQzkPO+j588R4ocVDjiesJsLva41Qko=
+filesize=1714620
+title=Tenerife, Canary Islands
+copyright=© Marco Bottigelli / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bPfF?ver=7224
+sha256=LrUiMm8jtGdQqeuyq4uBMNz5f+v946xwjCrtBSxX5Po=
+filesize=1794985
+title=Napa Valley, California
+copyright=© Dennis Frates / Alamy Stock Photo

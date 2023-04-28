@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWYsX?ver=e1cf
+sha256=zrAN4RIU6Cavq56j8dAodSuB4M21KkR4q33hE9HaUvE=
+filesize=1658609
+title=Tai Tam Park, Hong Kong SAR
+copyright=© Tse Hon Ning / Moment / Getty Images

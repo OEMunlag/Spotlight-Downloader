@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWNcjd?ver=634c
+sha256=ae8EjZln3MR2jNJ7M2fuyYte+Xl/lHOd+j3VnGt7OTM=
+filesize=1684046
+title=G299 supernova remnant
+copyright=© CXC / U.Texas / NASA

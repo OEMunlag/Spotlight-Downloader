@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O2Nv?ver=3379
+sha256=oLu7i0ZbgNKMBd5m6MVbxwn4+6Q4RnH3+mYIAb0vBUg=
+filesize=802708
+title=Ilha de Tinharé, Brazil
+copyright=© Junior Braz / Alamy Stock Photo

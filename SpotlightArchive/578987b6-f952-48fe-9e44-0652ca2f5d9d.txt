@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11esv?ver=b13a
+sha256=toeJV1L5/kieRAZSyi9dnfC/Er7ktWkR14kVB3c5czY=
+filesize=1829254
+title=Cape Elizabeth, Maine
+copyright=© lucky-photo / Adobe Stock

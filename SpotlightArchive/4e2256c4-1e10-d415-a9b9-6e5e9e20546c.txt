@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11jDF?ver=62e2
+sha256=xFYiThAeFdSpuW5eniBUbPNrpv7Tkar8vBh2Bz9zj4k=
+filesize=1842571
+title=Killarney Provincial Park, Canada
+copyright=© Jeffrey D. Walters / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWRfXQ?ver=a5c3
+sha256=Gw16U6CW3arVr1jaIP65UHIDwfQokqaMId8bEHltAb4=
+filesize=1816439
+title=Painting by Camille Pissarro
+copyright=© The Metropolitan Museum of Art

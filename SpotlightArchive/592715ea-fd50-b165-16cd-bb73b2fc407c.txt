@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHdwk?ver=145d
+sha256=6hUnWVD9ZbEWzbtzsvxAfLr9NHjsEl9WvZN2lGG7q8k=
+filesize=1862848
+title=Zhangye Geopark, China
+copyright=© Ratnakorn Piyasirisorost / Moment / Getty Images

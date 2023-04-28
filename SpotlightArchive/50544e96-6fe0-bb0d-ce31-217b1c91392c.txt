@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50ks3?ver=0f68
+sha256=lk5UUOBvDbvOMSF7HJE5LHd+DRA3aFQAjPfwiSK7XlU=
+filesize=1852969
+title=Shinjuku Gyoen Park, Japan
+copyright=© Patryk Kosmider / Shutterstock

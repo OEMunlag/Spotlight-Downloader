@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bME7?ver=7178
+sha256=1pWBotoio6PzUEoO0LE2bcogLzvpTXAfZrPmeoJ5IuQ=
+filesize=1689030
+title=Corfu, Greece
+copyright=© Cavan Images / Adobe Stock

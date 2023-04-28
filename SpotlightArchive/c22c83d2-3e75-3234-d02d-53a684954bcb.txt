@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4X4Dh?ver=632f
+sha256=0oMswnU+NDLQLVOmhJVLyzoGDdf4JK3wIMJKIJZ/0TI=
+filesize=1717441
+title=Iguazú Falls, South America
+copyright=© Fotos 593 / Adobe Stock

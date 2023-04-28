@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5c4Ta?ver=6aee
+sha256=jp7li6tWfLnjj+BAlYwNEqL3XZGqNR/1a1md5h9ep/4=
+filesize=1707961
+title=Khone Phapheng Falls, Laos
+copyright=© Hien Phung / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rw5i?ver=0758
+sha256=u3oWf2UJG49jtHp8gPR+pR7854fm4GpWavEUEwZIpy4=
+filesize=1835314
+title=Conques, France
+copyright=© freeartist / Alamy Stock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHdw5?ver=9bf6
+sha256=ePum481scdeUxKPtKBwYVNFjSwp4m13PUaZ7SYvYnzw=
+filesize=1713514
+title=Red Rock Canyon, Nevada
+copyright=© tonda / iStock / Getty Images Plus

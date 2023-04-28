@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cFIv?ver=badd
+sha256=ZX3z519EshQMITNf6CrOnIE7QgdVTGGrheaWbjt1eHs=
+filesize=1681432
+title=Calanques de Piana, Corsica
+copyright=© csimages / Adobe Stock

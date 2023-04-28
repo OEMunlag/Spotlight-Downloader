@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bPfH?ver=fbe6
+sha256=GLgELtZ/ug/Wrns7FnKCuPvmm4mlmNiZi2JlI6B9HRs=
+filesize=1681390
+title=Phetchabun mountains, Thailand
+copyright=© martinhosmat083 / Adobe Stock

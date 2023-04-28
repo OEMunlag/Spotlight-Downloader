@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11jDz?ver=19f3
+sha256=gYRJE3pLah5IV9gMloOILy/G/he14qsqEJB3jA5Ze6o=
+filesize=1688110
+title=Gold Beach, Oregon
+copyright=© Venya Manzyuk / 500px / Getty Images

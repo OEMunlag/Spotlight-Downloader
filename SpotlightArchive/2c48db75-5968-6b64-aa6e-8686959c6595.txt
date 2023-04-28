@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWGpe?ver=b15b
+sha256=ddtILGhZZGuqboaGlZxllUTV3dNPDfOUd5QVNo8eaIU=
+filesize=1789068
+title=Mauritius
+copyright=© Westend61 GmbH / Design Pics

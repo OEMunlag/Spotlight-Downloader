@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50xrB?ver=6d99
+sha256=X4Mrj3U2aLUkQCffQevgnOtXDoLGiMYsGCallTkWnp8=
+filesize=1844611
+title=Antananarivo, Madagascar
+copyright=© Luis / Adobe Stock

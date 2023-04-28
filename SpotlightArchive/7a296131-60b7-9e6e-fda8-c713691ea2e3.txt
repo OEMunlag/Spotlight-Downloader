@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11rrk?ver=5b93
+sha256=MWEperdgbp79qMcTaR6i45hHhGUkozNqk+K++Lq/+qM=
+filesize=1772613
+title=Cao Bang Province, Vietnam
+copyright=© Ratnakorn Piyasirisorost / Moment / Getty Images

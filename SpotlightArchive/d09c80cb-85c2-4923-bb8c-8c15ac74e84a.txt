@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5c4Tk?ver=452f
+sha256=y4Cc0MKFI0m7jIwVrHToSrdhozYqCqFvopOnbyoi87g=
+filesize=1733255
+title=Monument Valley, Navajo Nation
+copyright=© JLImages / Alamy Stock Photo

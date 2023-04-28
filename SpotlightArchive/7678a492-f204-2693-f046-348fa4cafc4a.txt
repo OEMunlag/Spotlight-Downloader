@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11oQM?ver=9457
+sha256=kqR4dgTykybwRjSPpMr8SqhOPCzzxmsjRbaclSc6OYM=
+filesize=1670183
+title=La Digue, Seychelles
+copyright=© Westend61 GmbH / Design Pics

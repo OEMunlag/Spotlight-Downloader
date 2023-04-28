@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55INJ?ver=4f41
+sha256=HLSIveLzS7FQLjwwR1CEyfmMJshgUgqcROY25M/SW80=
+filesize=1840004
+title=Cordillera Paine, Chile
+copyright=© R.M. Nunes / Alamy Stock Photo

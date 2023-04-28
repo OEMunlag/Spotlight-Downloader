@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11u4G?ver=a54a
+sha256=KwU7wfFcGKelzvB1rk2/fwIOL3XjOZ7OoeLkuAE287Y=
+filesize=1804149
+title=White Pocket, Arizona
+copyright=© Ed Bannister / Moment / Getty Images

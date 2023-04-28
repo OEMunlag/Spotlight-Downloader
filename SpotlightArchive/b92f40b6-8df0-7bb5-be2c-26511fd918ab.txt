@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWIzb?ver=ea51
+sha256=tkAvufCNtXu+LCZRH9kYq1+t3g6BgOviosO7rAC4f+o=
+filesize=1593951
+title=Dolbadarn Castle, Wales
+copyright=© Viktoria Rodriguez / EyeEm / Getty Images

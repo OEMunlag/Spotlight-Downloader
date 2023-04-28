@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55ypA?ver=4593
+sha256=c5znIVTarKhL/tnqSzvWahW4wFOojEwgSQs7hOkC0Js=
+filesize=1676585
+title=Tsitsikamma National Park, South Africa
+copyright=© Arnold.Petersen / Shutterstock

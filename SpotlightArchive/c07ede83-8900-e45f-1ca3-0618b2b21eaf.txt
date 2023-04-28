@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O2MS?ver=9f35
+sha256=g95+wACJX+QcowYYsrIer0DeHNSRviZEq2Vv0322ALE=
+filesize=612549
+title=Mount Zaō, Japan
+copyright=© Kanshiro Kawada/AFLO / age fotostock

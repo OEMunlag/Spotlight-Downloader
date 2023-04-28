@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bHoA?ver=c498
+sha256=ZzvkgAzPu8G0/krT1DXysFSIk/t3nubTnkwj5vTbQu0=
+filesize=1765735
+title=Val Poschiavo, Switzerland
+copyright=© Livio Piatta / SOPA / eStock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RDSw?ver=2d41
+sha256=o774uYXuFy4se5CNyNiLAT1g441zVALsymDaiF6UBSY=
+filesize=1748536
+title=Samosir Island, Sumatra
+copyright=© ES Imagery / age fotostock

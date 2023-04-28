@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50sf0?ver=37e7
+sha256=+dSj2xkS9IoMWqPRXlwraht8TB5kyOLxPONH2ZZ7gtg=
+filesize=1687031
+title=Dunstanburgh Castle, England
+copyright=© robertharding / Masterfile

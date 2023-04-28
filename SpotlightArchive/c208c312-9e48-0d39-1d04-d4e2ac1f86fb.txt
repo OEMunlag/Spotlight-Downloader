@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHg6P?ver=f892
+sha256=EsMIwkieOQ0dBNTirB+G++PCjNd4MQskJVx5cwhM+X8=
+filesize=1819113
+title=Dubrovnik, Croatia
+copyright=© simon.betteridge / Moment / Getty Images

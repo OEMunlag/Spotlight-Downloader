@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RGu6?ver=d4cf
+sha256=WRBc3iRFxNYYSpPGzILJYifNzxDgurIh9TqeEH8X4pU=
+filesize=1844148
+title=French Guiana
+copyright=© K J / Alamy Stock Photo

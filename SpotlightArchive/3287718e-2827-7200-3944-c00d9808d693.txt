@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55DMz?ver=5286
+sha256=jnGHMicoAHI5RMANmAjWk5yXpzyr+QY0mAVYO/aLh3s=
+filesize=1549559
+title=Serengeti National Park, Tanzania
+copyright=© Tom Murphy / Design Pics

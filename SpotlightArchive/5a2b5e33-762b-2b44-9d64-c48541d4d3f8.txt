@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50HTW?ver=8339
+sha256=M14rWit2RCudZMSFQdTT+NNBtw9x1xLNhxP7h00a1aQ=
+filesize=1637800
+title=Carrizo Plain, California
+copyright=© Nathan Yan / Stocksy / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55IND?ver=6934
+sha256=9GKzv8B8Sw7PScl0hfQs6aYRyFKZkSmQW/Ei1gkt93w=
+filesize=1723187
+title=Cape Peninsula, South Africa
+copyright=© Alberto Biscaro / Design Pics

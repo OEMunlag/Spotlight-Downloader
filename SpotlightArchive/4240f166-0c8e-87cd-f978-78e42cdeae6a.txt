@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWOiV?ver=b0d8
+sha256=ZvFAQo4MzYf5eHjkLN6uajq1hIN6lIGQQSuAGLHqNoU=
+filesize=1962313
+title=Sorrento, Italy
+copyright=© photography by Maico Presente / Moment Open / Getty Images

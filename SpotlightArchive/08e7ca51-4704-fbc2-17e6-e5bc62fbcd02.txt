@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHiIw?ver=2d1b
+sha256=UcrnCARHwvsX5uW8YvvNAvDtkURzP347w28Kx1+WRVs=
+filesize=1834723
+title=Rome, Italy
+copyright=© RilindH / RooM / Getty Images

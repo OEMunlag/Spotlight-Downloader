@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4WUmL?ver=1b3f
+sha256=AhvCTHySt5W3CFCK2OPFvmJrsxxzyWHnBLJ3HWobUhU=
+filesize=1864437
+title=Zambezi River, Zambia
+copyright=© Nikada / E+ / Getty Images

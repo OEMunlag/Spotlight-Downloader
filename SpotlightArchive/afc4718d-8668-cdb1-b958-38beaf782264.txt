@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NSBk?ver=acd5
+sha256=jXHEr2iGsc25WDi+r3giZDb+FH6CxI0y+pIFg1377HA=
+filesize=784018
+title=Forggensee, Germany
+copyright=© Günter Gräfenhain / Mauritius Images / Offset

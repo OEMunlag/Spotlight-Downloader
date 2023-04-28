@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHnUk?ver=2dfd
+sha256=SAloLQ6ndnD9XUhP98DQLJ5uCSupvMd3bIKEx1Kq6+Q=
+filesize=1784600
+title=County Dublin, Ireland
+copyright=© Marco Bottigelli / Moment / Getty Images

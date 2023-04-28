@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4ZSdY?ver=85fc
+sha256=l6BUyjgu/bw4hb353GPRSq1Na2/VkdO1O3o3GcWXbac=
+filesize=1592500
+title=Newport, Rhode Island
+copyright=© Meybruck / iStock / Getty Images Plus

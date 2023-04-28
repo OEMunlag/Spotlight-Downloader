@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWR64s?ver=0ee3
+sha256=yUgyVF1qUj+0hhEt4cYpq+FP/taO+iNqm9Ez2gtZXrk=
+filesize=1719592
+title=Painting by Charles-François Daubigny
+copyright=© The Metropolitan Museum of Art

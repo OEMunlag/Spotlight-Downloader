@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5c4Sz?ver=0a63
+sha256=Id8qYGkrr4j6e6X/MdH6xEZvAHMshBE99MfwkwxjY8A=
+filesize=1629363
+title=Dorset, England
+copyright=© Derek Croucher / Alamy Stock Photo

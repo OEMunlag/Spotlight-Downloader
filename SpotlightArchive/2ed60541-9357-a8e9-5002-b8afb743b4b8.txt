@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RttH?ver=470a
+sha256=QQXWLleT6ahQArivt0O0uPF/lHgopJG2r4CkZ4oMFY4=
+filesize=1703656
+title=The Cerrado, Brazil
+copyright=© ArteSub / Alamy Stock Photo

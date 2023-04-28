@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4X4Dx?ver=92a3
+sha256=fgUy25OKtssAD8YUeFJpfHAleZwN4YAwr3FWI16S+/U=
+filesize=1536442
+title=Nine Arch Bridge, Sri Lanka
+copyright=© surangaw / Adobe Stock

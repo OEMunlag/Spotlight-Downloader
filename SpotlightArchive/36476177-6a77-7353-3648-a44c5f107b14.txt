@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cBxV?ver=d043
+sha256=d2FHNndqU3M2SKRMXxB7FIAl4q5yaAbDqfuZfgJPiX0=
+filesize=1565455
+title=Tassili N'ajjer, Algeria
+copyright=© DPK-Photo / Alamy Stock Photo

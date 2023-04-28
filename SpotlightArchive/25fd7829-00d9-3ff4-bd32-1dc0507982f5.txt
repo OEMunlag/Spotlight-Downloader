@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50HTP?ver=736b
+sha256=KXj9JdkA9D+9Mh3AUHmC9amYUcVpgTzfblHjSWDJTf8=
+filesize=1719497
+title=Capilano Suspension Bridge, Canada
+copyright=© kaiyhun / Adobe Stock

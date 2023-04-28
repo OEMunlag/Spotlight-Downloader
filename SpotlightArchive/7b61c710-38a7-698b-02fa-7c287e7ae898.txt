@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RttO?ver=4bd2
+sha256=EMdhe6c4i2kC+nwofnromHQc0dorvueEMYi113+j6kk=
+filesize=1802274
+title=Yoshino-Kumano National Park, Japan
+copyright=© Sean Pavone / Alamy Stock Photo

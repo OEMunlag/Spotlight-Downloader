@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XfaW?ver=389b
+sha256=cCKdT+mQWXHeHFXRiqWEz1d7JW3jXoPsS52dVTsscD8=
+filesize=1767196
+title=Mussulo Bay, Angola
+copyright=© artur carvalho / Moment / Getty Images

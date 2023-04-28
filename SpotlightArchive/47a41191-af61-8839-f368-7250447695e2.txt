@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rw4s?ver=436f
+sha256=kRGkR2GvOYjzaHJQRHaV4nAnCfqzcWehSzg2cjaQoVQ=
+filesize=1728621
+title=Tenerife, Canary Islands
+copyright=© Carlos M. Almagro / Cavan Images

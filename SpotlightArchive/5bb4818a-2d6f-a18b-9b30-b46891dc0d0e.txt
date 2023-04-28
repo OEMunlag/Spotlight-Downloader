@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSwW?ver=56a9
+sha256=ioG0W28ti6GbMLRokdwNDiKhcD7dMZSSu/PPqf+axJo=
+filesize=1879260
+title=Waikato, New Zealand
+copyright=© Johnny Li / 500px / Getty Images

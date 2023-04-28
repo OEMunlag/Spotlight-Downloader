@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RWkk?ver=9e5b
+sha256=6TBVUGiRZXBCVPU26cG2DmK4lg59cCNoXI4Y9XaP/QA=
+filesize=1641124
+title=Railay, Thailand
+copyright=© Noppasin Wongchum / Alamy Stock Photo

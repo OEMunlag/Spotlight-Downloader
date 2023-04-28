@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHdvj?ver=fe9f
+sha256=flrIUhf5YiQrCEFfr8VY3xzqVDe//exJV4a1ywA4ZbI=
+filesize=1745651
+title=Cape Le Grand National Park, Australia
+copyright=© Roland Gerth / Huber / eStock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN6CM?ver=50a5
+sha256=3+dyzb5l5VDUKJeW78hPA2dAD0fBUuHqHSlyGpTS54M=
+filesize=1696458
+title=Large Magellanic Cloud galaxy
+copyright=© ESA / Hubble & NASA, Y. Chu / NASA

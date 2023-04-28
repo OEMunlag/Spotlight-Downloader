@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Xcvo?ver=3c08
+sha256=JM49C0jQR6u7yhX4xlgWMbaX/0EhyNmQFNAXm/Ht9GI=
+filesize=1808615
+title=South Tyrol, Italy
+copyright=© Andrew Mayovskyy / Adobe Stock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHt78?ver=d9b7
+sha256=vzVPzynHvQOAT0Os/HTZFtMIX5AVWRwhwBHyN/0xGgU=
+filesize=1689830
+title=Jinshanling, China
+copyright=© Aaron Geddes Photography / Moment / Getty Images

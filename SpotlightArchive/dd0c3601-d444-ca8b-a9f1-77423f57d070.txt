@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OaN4?ver=0b32
+sha256=ATYM3UTUi8qp8XdCP1fQcDAvVCRhbFdKMrYUdj8IIdQ=
+filesize=447125
+title=Lake Petén Itzá, Guatemala
+copyright=© Svetlana Bykova / Alamy Stock Photo

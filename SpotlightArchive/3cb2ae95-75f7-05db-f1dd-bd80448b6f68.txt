@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWYqa?ver=e7ae
+sha256=la6yPPd12wXx3b2ARItvaIy+pn7aGe++gm7XVrzX8G8=
+filesize=1933969
+title=Peak Tram, Hong Kong SAR
+copyright=© Caroline Pang / Moment / Getty Images

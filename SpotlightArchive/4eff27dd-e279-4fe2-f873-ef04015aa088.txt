@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55OgM?ver=e96a
+sha256=3Sf/Tnni4k/4c+8EAVqgiOcrUK9XwLfPIr3e0xJfHag=
+filesize=1806476
+title=Chamarel, Mauritius
+copyright=© Peter Langer / Design Pics

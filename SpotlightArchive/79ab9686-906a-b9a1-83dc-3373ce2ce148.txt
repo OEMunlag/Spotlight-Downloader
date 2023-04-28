@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XLOL?ver=fb3c
+sha256=hpareWqQobmD3DNzzizhSAeFFxHp4v7rQWFngRPJb3Y=
+filesize=1632607
+title=Andros, Greece
+copyright=© proslgn / Shutterstock

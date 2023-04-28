@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWR64k?ver=b7d8
+sha256=5bXSu8OGmHVSs8PqxR3peszQwphPwJAJLz1IFzJp5jI=
+filesize=1857166
+title=Painting by Eugène Boudin
+copyright=© The Metropolitan Museum of Art

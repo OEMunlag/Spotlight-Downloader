@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50Fee?ver=88b5
+sha256=DHnwBbe5b2L691snEPTY6t3keXh+PmbFmZYT0bJncn0=
+filesize=1779006
+title=Arches National Park, Utah
+copyright=© aheflin /Adobe Stock

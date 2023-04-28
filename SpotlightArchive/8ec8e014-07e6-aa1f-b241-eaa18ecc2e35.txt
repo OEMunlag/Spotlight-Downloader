@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHvIT?ver=d663
+sha256=FODIjuYHH6qyQeqhjswuNT2FzNKSH1jDedjegdMgVrM=
+filesize=1726751
+title=Yokohama, Japan
+copyright=© Agustin Rafael C. Reyes / Moment / Getty Images

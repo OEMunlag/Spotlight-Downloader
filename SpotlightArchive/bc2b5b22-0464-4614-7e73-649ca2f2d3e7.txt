@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWGp8?ver=3da3
+sha256=IlsrvGQEFEZ+c2ScovLT5zK9OIKGRopKvN6EBTsLjDA=
+filesize=1856400
+title=Forth Bridge, Scotland
+copyright=© John Carroll Photography / Alamy Stock Photo

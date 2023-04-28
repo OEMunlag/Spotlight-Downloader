@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cLbf?ver=1c04
+sha256=30NdRt+HHK7C+6TWEBcdSyJ8dbHFREqD69wg0DKmPbI=
+filesize=1817801
+title=Eleuthera, Bahamas
+copyright=© RooM The Agency / Adobe Stock

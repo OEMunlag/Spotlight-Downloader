@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55LHU?ver=8e8f
+sha256=IZ/sPb9mF2K14ULQvSmImqAgvhLjZk0MHJ8Gg865ADk=
+filesize=1703816
+title=Agbokim waterfalls, Nigeria
+copyright=© Robert Harding / Design Pics

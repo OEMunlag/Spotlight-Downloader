@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cPXh?ver=07fb
+sha256=8gmg1ZU3pUiD6bz7sA4L3y30fzHg08mf6A+G0IXxSNM=
+filesize=1665220
+title=Grand Teton National Park, Wyoming
+copyright=© Heeb Photos / eStock Photo

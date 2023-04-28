@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWR39K?ver=6a15
+sha256=/WLT8V73CRJb4mjU9cAB8qu7gAKRzuFPAHfLfJ7cgh4=
+filesize=1698268
+title=Painting by Claude Lorrain
+copyright=© The Metropolitan Museum of Art

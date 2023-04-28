@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHiIy?ver=4949
+sha256=jDGakerzWsbdk4qqqQ/uC1zZy4dyd5hdZgV915XpgSM=
+filesize=1637978
+title=Prague, Czech Republic
+copyright=© joe daniel price / Moment / Getty Images

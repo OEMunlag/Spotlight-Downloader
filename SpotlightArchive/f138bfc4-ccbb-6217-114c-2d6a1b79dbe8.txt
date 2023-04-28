@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cLb5?ver=7c59
+sha256=xL848bvMF2IRTC1qG3nb6JzHyQQ9CmQ9I2jkbgOkSQ0=
+filesize=1579401
+title=Castel del Monte, Italy
+copyright=© Riccardo Spila / SOPA / eStock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55LIv?ver=0753
+sha256=ZzWv7uPIOusET+DY/SMHTI7/m7TzWuRTrp4mBYcyB3Y=
+filesize=1836972
+title=Torres del Paine National Park, Chile
+copyright=© Foto 4440 / Shutterstock

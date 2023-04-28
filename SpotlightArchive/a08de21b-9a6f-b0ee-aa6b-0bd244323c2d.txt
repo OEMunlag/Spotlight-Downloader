@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN8WQ?ver=79b0
+sha256=G+KNoG+a7rCqawvSRDI8LT+9LUEiwz5vEFsjW3FXIBk=
+filesize=1706777
+title=Nawalapitiya, Sri Lanka
+copyright=© R. Ian Lloyd / Masterfile

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cFJb?ver=3f69
+sha256=tvll3c1rJZkdUyr6XRrP3SS5c1cNINmiigbGlK77Tc0=
+filesize=1798728
+title=The Palouse, Washington
+copyright=© Mint Images - Art Wolfe / Mint Images RF / Getty Images

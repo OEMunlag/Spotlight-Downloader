@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55Oh5?ver=2c68
+sha256=G6zg5ZdxSDayR1tTKahQ4tZP/J+dA08Frf8Y0GVVVKc=
+filesize=1652850
+title=Lake Sandoval, Peru
+copyright=© Vaclav Sebek / Shutterstock

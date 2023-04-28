@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWDQC?ver=7fe6
+sha256=lnchHziYUQZzuudrOaJRBr0PJBLgOpwMksSU3w9uX1c=
+filesize=1827376
+title=Lingmoor Fell, England
+copyright=© joe daniel price / Moment / Getty Images

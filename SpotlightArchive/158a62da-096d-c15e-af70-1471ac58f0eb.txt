@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O88x?ver=8be5
+sha256=2mKKFW0JXsGvcBRxrFjw683kO6PdT2YLH8+uvY/4utY=
+filesize=726862
+title=Grenoble, France
+copyright=© Olena Buyskykh / Alamy Stock Photo

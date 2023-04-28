@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cSx2?ver=0552
+sha256=9Psuk7xr3WBcfpG8JCwoO1WWSGRRFzldhdFIcc/zY28=
+filesize=1661980
+title=Rajgad Fort, India
+copyright=© Abhinav Sah / Moment / Getty Images

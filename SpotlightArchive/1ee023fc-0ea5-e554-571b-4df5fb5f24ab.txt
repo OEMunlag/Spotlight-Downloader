@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XcuO?ver=55c1
+sha256=/CPgHqUOVOVXG031+18kq8MfAaPHgQMYc6mN2djtxWw=
+filesize=1782639
+title=Mpumalanga, South Africa
+copyright=© demerzel21 / Adobe Stock

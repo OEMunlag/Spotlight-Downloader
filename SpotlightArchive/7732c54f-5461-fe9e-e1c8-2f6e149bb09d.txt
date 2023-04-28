@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHiHS?ver=fa3a
+sha256=T8Uyd2FUnv7hyC9uFJuwnb5LFoUn5gH4U1KfUhC+WwU=
+filesize=1739241
+title=Bacunayagua, Cuba
+copyright=© Dado Daniela / Moment / Getty Images

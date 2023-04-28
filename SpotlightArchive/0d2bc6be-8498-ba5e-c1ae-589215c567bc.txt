@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWIz2?ver=1ba8
+sha256=vsYrDZiEXrrBrliSFcVnvJgESSRafE4B1BB6/0Hhpx0=
+filesize=1695635
+title=Salvador, Brazil
+copyright=© sbk_20d pictures / Moment / Getty Images

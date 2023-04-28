@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O881?ver=cda9
+sha256=2340A6bOpYSI+EaMaLHkPQdBjdEODqsrqsGggcwBoZU=
+filesize=702967
+title=Whooping cranes
+copyright=© Janice and Nolan Braud / Alamy Stock Photo

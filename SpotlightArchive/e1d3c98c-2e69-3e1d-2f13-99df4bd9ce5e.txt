@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWR64z?ver=95a6
+sha256=jMnT4WkuHT4vE5nfS9nOXs8lZnx39hgTHSgNoEOZBmY=
+filesize=1668953
+title=Painting by Martín Rico y Ortega
+copyright=© The Metropolitan Museum of Art

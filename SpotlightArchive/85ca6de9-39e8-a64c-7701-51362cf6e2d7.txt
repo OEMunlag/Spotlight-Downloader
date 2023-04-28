@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XcuQ?ver=f2b1
+sha256=6W3Kheg5TKZ3AVE2LPbi18xDFGVzr4HJzib94YuSRKk=
+filesize=1795022
+title=Denali State Park, Alaska
+copyright=© jiawangkun / Adobe Stock

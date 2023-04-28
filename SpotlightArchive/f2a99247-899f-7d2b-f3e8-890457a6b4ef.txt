@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHvJ6?ver=a95c
+sha256=R5Kp8p+JK33z6IkEV6a07zZVOngEN48oVeuGKKW3Pis=
+filesize=1844651
+title=Lisbon, Portugal
+copyright=© Tiago Alberto / EyeEm / Getty Images

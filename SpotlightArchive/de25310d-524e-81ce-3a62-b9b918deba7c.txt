@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4OaNv?ver=930b
+sha256=DTEl3k5SzoE6Yrm5GN66fMNSerE1+Uxf0q4TUo00IcM=
+filesize=649212
+title=Bryce Canyon National Park, Utah
+copyright=© Robert Harding World Imagery/ Offset

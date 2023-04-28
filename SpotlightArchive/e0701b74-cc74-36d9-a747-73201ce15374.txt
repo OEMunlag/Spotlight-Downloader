@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Xacr?ver=1d78
+sha256=dBtw4HTM2TanR3MgHOFTdENNaZIIls+Y8LXqA7S1ZS4=
+filesize=1709485
+title=Grundlsee, Austria
+copyright=© jenyateua / Adobe Stock

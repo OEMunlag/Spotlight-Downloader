@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55GjP?ver=1799
+sha256=zLqKTXhhR9y33CWSGk+lg9vBGM68AjW3Rg1L/K/fHPM=
+filesize=1481470
+title=The Drakensberg, South Africa
+copyright=© David Noton Photography / Alamy Stock Photo

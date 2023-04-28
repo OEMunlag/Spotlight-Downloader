@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWQY6B?ver=cd79
+sha256=bHs5L3Jh74gTrq2Tr/rsWQO5th87rPfZDIUKf+FZk4A=
+filesize=1606355
+title=Painting by Martin Johnson Heade
+copyright=© The Metropolitan Museum of Art

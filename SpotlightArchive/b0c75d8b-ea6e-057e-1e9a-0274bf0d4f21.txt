@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4Rj5j?ver=6c8f
+sha256=i13HsG7qfgUemgJ0vw1PIWxOOqcMqB6VqDLt2P4b4d4=
+filesize=1738574
+title=Melong, Cameroon
+copyright=© EyeEm / Alamy Stock Photo

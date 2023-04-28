@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bUq6?ver=8aad
+sha256=PnfFswwaaCGtHbRdEbKOX/oF40LQjWHYlw4EC6we2zk=
+filesize=1693161
+title=Namib-Naukluft National Park, Namibia
+copyright=© robertharding / Adobe Stock

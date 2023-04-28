@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMYJ4?ver=4129
+sha256=0Cd3eDe7NiMJh0hBZZOPFommrEeeQuB/r2reAUfQXI0=
+filesize=1864258
+title=Lake Nyabikere, Uganda
+copyright=© robertharding / Masterfile

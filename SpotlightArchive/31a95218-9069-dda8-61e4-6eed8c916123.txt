@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50HUj?ver=a86c
+sha256=GFKpMWmQqN1h5G7tjJFhIwRrxp29upVznoe05gvlUgg=
+filesize=1752230
+title=Giant's Causeway, Northern Ireland
+copyright=© Marco Bottigelli / Moment / Getty Images

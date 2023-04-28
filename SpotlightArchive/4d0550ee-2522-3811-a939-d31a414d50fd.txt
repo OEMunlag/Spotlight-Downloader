@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55LIg?ver=d8ce
+sha256=7lAFTSIlETipOdMaQU1Q/dmbuCEkakro2IcAE8dhm+Q=
+filesize=1722734
+title=Lake Yamanaka, Japan
+copyright=© Cavan Images / Design Pics

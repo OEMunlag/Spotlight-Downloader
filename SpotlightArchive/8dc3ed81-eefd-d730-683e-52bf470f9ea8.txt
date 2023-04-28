@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bPf1?ver=2323
+sha256=ge3Djf3uMNdoPlK/Rw+eqF4PKNzn8s4GCalLE8QvYHA=
+filesize=1909745
+title=Jiuzhaigou National Park, China
+copyright=© efired / Adobe Stock

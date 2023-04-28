@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bPf2?ver=ec61
+sha256=XVkNrkFYqT84xArhKSG9YF3dnOHL2cKgbHQYAkDy7hE=
+filesize=1644893
+title=Freycinet National Park, Australia
+copyright=© Posnov /Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11u45?ver=7612
+sha256=4qpnZL4Aa24O2yd9CCsnnh4iIUckU0tpq4xRmlfz9ko=
+filesize=1826222
+title=Angels Landing, Utah
+copyright=© theasis / iStock / Getty Images

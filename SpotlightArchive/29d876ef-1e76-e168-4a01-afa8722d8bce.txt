@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11oR0?ver=a66f
+sha256=73bYKXYeaOFKAa+oci2Lzhwupc99NpWDB683/I7pxTE=
+filesize=1819223
+title=Budapest, Hungary
+copyright=© Luigi Vaccarella / SOPA / eStock Photo

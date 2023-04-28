@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55ypG?ver=06e7
+sha256=YUVGocc4hFgV4sM3NtptVEpXrc/vYo7YMx75SATVYxw=
+filesize=1756490
+title=Chimborazo Province, Ecuador
+copyright=© ecuadorplanet / Shutterstock

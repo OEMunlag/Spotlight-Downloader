@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bX5a?ver=f85b
+sha256=wemWFBuP9NxPNMOfa4Q6NvPIOJB5xwPdakSEgrwuNeQ=
+filesize=2268400
+title=Vila Franca islet, Portugal
+copyright=© Artur Debat / Moment / Getty Images

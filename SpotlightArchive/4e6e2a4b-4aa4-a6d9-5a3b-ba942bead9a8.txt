@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4XWby?ver=ad2e
+sha256=SypuTqRK2aZaO7qUK+rZqJBxwcUpAxFoih3Mzg2sMTc=
+filesize=1627910
+title=Matsumoto, Japan
+copyright=© Masterfile

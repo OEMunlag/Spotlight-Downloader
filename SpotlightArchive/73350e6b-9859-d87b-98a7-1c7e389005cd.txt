@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55Qw8?ver=3bb9
+sha256=aw41c1mYe9iYpxx+OJAFzYpS70CkZ+D/fzF/uuuvwyc=
+filesize=1823533
+title=Gasa District, Bhutan
+copyright=© Pascal Boegli / Moment / Getty Images

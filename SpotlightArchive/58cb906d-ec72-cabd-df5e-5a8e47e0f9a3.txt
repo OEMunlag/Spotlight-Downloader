@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RohX?ver=4488
+sha256=bZDLWHLsvcrfXlqOR+D5oydDyDUW9An+udgRKN5E7x0=
+filesize=1758085
+title=Los Nevados National Park, Colombia
+copyright=© PhotoLatino / eStock Photo

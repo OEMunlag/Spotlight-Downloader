@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5bMDY?ver=4d03
+sha256=uZR9Edg5KUVS6FBgmqbHYO0FDMm2zrbw6p25qPCwLkA=
+filesize=1728754
+title=Cape Point, South Africa
+copyright=© dbrnjhrj / Adobe Stock

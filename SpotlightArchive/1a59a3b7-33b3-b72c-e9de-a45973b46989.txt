@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5cLc8?ver=5bcb
+sha256=t6NZGrMzLLfp3qRZc7RpiSR5zBUslvluziFr7+aXL1g=
+filesize=1780678
+title=Joshua Tree National Park, California
+copyright=© Massimo Ripani / Sime / eStock

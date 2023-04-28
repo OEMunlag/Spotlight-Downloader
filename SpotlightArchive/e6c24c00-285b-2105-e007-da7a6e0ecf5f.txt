@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O87U?ver=98b3
+sha256=AEzC5lsoBSHgB9p6bg7PXywydmyaISg+mF7u0GeEiNs=
+filesize=696031
+title=Pravčická brána, Czech Republic
+copyright=© Robert Harding World Imagery / Offset

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWReAO?ver=c7ff
+sha256=YlY+/f2qGPldTzCRSSifW98jBSl/cg4iBwocW3ZktvA=
+filesize=1872358
+title=Painting by Gustave Courbet
+copyright=© The Metropolitan Museum of Art

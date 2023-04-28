@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11jDv?ver=356b
+sha256=P1/cQXif7Ow9AnnH+6zmkfUN6y5zgtmbmZ0DbKSVH2w=
+filesize=1734693
+title=Garden of the Gods, Colorado
+copyright=© Sean Pavone / iStock / Getty Images Plus

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50n7b?ver=11ab
+sha256=PWpbCtRyCx6+wjZzvIfq6jD+Xx+b9DtG3Z13MtytHTE=
+filesize=1834394
+title=São Joaquim National Park, Brazil
+copyright=© Antonello / Adobe Stock

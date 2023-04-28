@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RyFX?ver=63e9
+sha256=CSBVHb+o/Mk1T5SFwvTc1g7rIawpnza2Hez+5s0eShg=
+filesize=1771192
+title=Tufted capuchin
+copyright=© Danita Delimont / Alamy Stock Photo

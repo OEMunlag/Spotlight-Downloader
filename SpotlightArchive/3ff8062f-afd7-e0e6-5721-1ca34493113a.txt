@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWIzS?ver=f801
+sha256=Lwb4P9ev5uBXIRyjRJMROnQdBFliaZRbYiJGAdc6u8E=
+filesize=1709724
+title=Ploumanac'h, France
+copyright=© Martin Ruegner / Masterfile

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50HU9?ver=8277
+sha256=VPLWsKRQ32VyDtoxp7ZDd6W82vonymDJ3mgZ5CZ84NA=
+filesize=1614349
+title=Douro River, Portugal
+copyright=© dgmsgallery / Adobe Stock

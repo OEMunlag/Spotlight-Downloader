@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE55B7Y?ver=b26c
+sha256=j7/7HJE6TgRohn0VR/Ly9voEM4lDTczs5bjEG0i9MSI=
+filesize=1851686
+title=Libo County, China
+copyright=© HelloRF Zcool / Shutterstock

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE50HTZ?ver=300a
+sha256=2zrP6l9mZte6pr89ThIznwydUs0GBm/jDWxYi1Ncbhg=
+filesize=1775285
+title=Château d'If, France
+copyright=© gurgenb / Adobe Stock

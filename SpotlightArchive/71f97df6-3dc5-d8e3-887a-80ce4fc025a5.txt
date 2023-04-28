@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O2NB?ver=538d
+sha256=9n35ccU949iIeoDOT8Alpc5TrhyQ3GupZ4zXL+rb1LQ=
+filesize=859052
+title=Jeti-Ögüz Rocks, Kyrgyzstan
+copyright=© Pascal Mannaerts / Alamy Stock Photo

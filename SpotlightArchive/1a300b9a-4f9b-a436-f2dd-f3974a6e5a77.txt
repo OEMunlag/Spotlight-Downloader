@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11rrU?ver=f73c
+sha256=mgswGptPNqTy3fOXSm5ad0XYhtfdrWnCSWtNtqLGcQQ=
+filesize=1735563
+title=Death Valley, California
+copyright=© Matteo Colombo / Stone / Getty Images

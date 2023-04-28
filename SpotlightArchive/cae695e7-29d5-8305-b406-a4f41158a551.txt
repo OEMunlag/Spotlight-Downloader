@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW119di?ver=1569
+sha256=55XmytUpBYO0BqT0EVilUY6TD89kg2bjAD21JrfIoCI=
+filesize=1784552
+title=Gatklettur, Iceland
+copyright=© Phillip Chow / Moment / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWDQI?ver=d24f
+sha256=Ru2SqDXdJu9sCJtY/zvsShrEYn+xdxc8/Wj8Tvl/Gc8=
+filesize=1582636
+title=Ngorongoro Crater, Tanzania
+copyright=© Travel Stock / Adobe Stock

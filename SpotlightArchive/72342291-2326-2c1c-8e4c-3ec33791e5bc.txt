@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHiHQ?ver=38ce
+sha256=kSI0ciYjHCyOTD7DN5HlvFYcAqisRQD2SQMImsKJMXw=
+filesize=1593431
+title=Bay of Kotor, Montenegro
+copyright=© gehringj / E+ / Getty Images

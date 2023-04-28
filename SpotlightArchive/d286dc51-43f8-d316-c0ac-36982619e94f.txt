@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RohD?ver=8fa3
+sha256=UdyG0vhDFtPArDaYJhnpT4pr79G1JkEGhnPm4ZdSdVY=
+filesize=1813819
+title=Chefchaouen, Morocco
+copyright=© Laura Facchini / Alamy Stock Photo

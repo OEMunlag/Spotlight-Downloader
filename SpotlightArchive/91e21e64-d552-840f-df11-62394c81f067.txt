@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWHg74?ver=55a6
+sha256=ZB7ikVLVD4TfEWI5TIHwZ6Cr6P9hsLbTk7pkadYprU0=
+filesize=1686667
+title=Mahé, Seychelles
+copyright=© Reinhard Schmid / Huber / eStock Photo

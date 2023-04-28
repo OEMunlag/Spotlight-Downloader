@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWN1pX?ver=1df2
+sha256=S3dp0AIKAgSKA5K0Nns4I+T0kYj12TAYkqpy+C9DnW0=
+filesize=1742862
+title=El Nido, Philippines
+copyright=© kjorgen / iStock / Getty Images Plus

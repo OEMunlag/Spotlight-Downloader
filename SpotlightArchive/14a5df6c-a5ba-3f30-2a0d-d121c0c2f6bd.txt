@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWWLAe?ver=785e
+sha256=bN+lFLqlMD8qDdEhwML2vcUiuGFUNJRbWw+1M7ew5MU=
+filesize=1724753
+title=Auckland, New Zealand
+copyright=© Niko Kersting / Huber / eStock Photo

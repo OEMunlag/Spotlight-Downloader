@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4O88B?ver=8494
+sha256=/x6mvI80+3U249R7ez3dpJNdAjpvJotMsPkJqYkzo6Y=
+filesize=640444
+title=Grant's gazelles
+copyright=© Robert Harding World Imagery / Offset

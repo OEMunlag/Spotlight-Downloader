@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RyGD?ver=3e49
+sha256=Xm6YBNGutTGLySjbpzAkVni9LyAovuVZ3a6z23xkMuM=
+filesize=1856726
+title=Miradouro da Lua, Angola
+copyright=© Fabian Plock / Alamy Stock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWR39A?ver=9c82
+sha256=QmgeKsRdIOflbJSCEJk0uEYcI8n/gTOd+MoYNpjii6I=
+filesize=1844084
+title=Painting by Thomas Cole
+copyright=© The Metropolitan Museum of Art

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW11bQV?ver=6e53
+sha256=AeenGStUfCAWe0SRW72bvFbI+7BOjjPPdcj1Jczn6SU=
+filesize=1745986
+title=Trinidad, California
+copyright=© Itai Rom / 500px / Getty Images

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE5czo8?ver=07c2
+sha256=KyEIIYeZSljP1iJd0Df7W/kBNXY5U73y9ggQwTkMSW0=
+filesize=1711041
+title=The Wave, Arizona
+copyright=© Bernd Grundmann / Huber / eStock Photo

@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4RohZ?ver=c63c
+sha256=6C2jSq1HbtmgJ4PcopwGO7co4fVR+UR9yLRD3Sq7GsU=
+filesize=1788913
+title=Great cormorants
+copyright=© Khaled Noaman / Alamy Stock Photo

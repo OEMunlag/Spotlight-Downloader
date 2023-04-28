@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMYJF?ver=e105
+sha256=AuDjmYOxgmqj59wG+yDZtXOgz8eAgdGHdh4rm+Tx/LQ=
+filesize=1681563
+title=Ubud, Indonesia
+copyright=© R. Ian Lloyd / Masterfile

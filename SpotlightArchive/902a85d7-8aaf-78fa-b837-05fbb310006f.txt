@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWMYJx?ver=6171
+sha256=14UqkK+K+ni4NwX7sxAAbzcAjTnw1b7Din3uPUNUz8E=
+filesize=1835681
+title=Shiretoko National Park, Japan
+copyright=© Jochen Schlenker / Masterfile

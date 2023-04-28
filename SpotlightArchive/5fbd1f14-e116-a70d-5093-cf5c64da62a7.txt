@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4NXoq?ver=769c
+sha256=FB+9XxbhDadQk89cZNpip4AK1HH6/kZktY3Rqz3mO0E=
+filesize=322906
+title=Berlin, Germany
+copyright=© Alexander Hassenstein / Digital Vision / Getty Images
