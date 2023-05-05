@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13idm?ver=61c1
+sha256=9AIxhixRet5K4dHBFOFeDttT8kC6KMpZyrCRNjaX8BQ=
+filesize=1799224
+title=Moscow, Idaho
+copyright=© Larry Gerbrandt / Moment / Getty Images
