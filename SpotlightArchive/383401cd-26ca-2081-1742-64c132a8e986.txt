@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW140Hg?ver=5283
+sha256=zQE0OMomgSAXQmTBMqjphl1/TwozFrZqcN2irNdPWAE=
+filesize=1649486
+title=Epupa Falls, Namibia
+copyright=© Martin Harvey / The Image Bank / Getty Images

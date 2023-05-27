@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13FNz?ver=b889
+sha256=TQQR+OhueupST6HEQfRGfuADj+hefFhKymrotJuvBkU=
+filesize=1824375
+title=The Everglades, Florida
+copyright=© Jupiterimages / The Image Bank / Getty Images

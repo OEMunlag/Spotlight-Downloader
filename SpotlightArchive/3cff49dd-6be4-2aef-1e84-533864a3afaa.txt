@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13NEP?ver=7d65
+sha256=3Un/PORr7yoehFM4ZKOvqoAQZWbe7AkHTss6VXRPxy0=
+filesize=1695407
+title=Dunnottar Castle, Scotland
+copyright=© Silvia Otte / Stone / Getty Images

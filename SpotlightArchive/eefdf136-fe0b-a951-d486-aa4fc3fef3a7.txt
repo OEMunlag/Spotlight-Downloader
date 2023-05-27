@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13FNE?ver=dc94
+sha256=NvH97gv+UanUhqpPw/7zp/WsGz2Uzdn7ClDXdgPWgCw=
+filesize=1803335
+title=Petit Minou Lighthouse, France
+copyright=© MathieuRivrin / Moment / Getty Images

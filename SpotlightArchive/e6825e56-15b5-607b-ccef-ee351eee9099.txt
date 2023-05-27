@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13SNS?ver=f051
+sha256=Vl6C5rUVe2DM7+41Hu6QmbRiStBHMZI+gfax4aeB8KE=
+filesize=1769879
+title=Khao Sam Roi Yot, Thailand
+copyright=© Invisiblesane / Shutterstock

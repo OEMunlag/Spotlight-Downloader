@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13Y9b?ver=7937
+sha256=pi7f6ELoe99qDi8zjQQ6y5OpI+2VutX2sk1ShAK/2YM=
+filesize=1718951
+title=Achill Island, Ireland
+copyright=© lucafabbian / iStock / Getty Images Plus

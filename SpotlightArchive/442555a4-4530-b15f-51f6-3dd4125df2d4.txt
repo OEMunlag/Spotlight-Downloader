@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13L2n?ver=086a
+sha256=pFUlRDBFX7FR9j3UEl3y1Lp9X7sriSEwbRHUmdZuLgM=
+filesize=1738281
+title=Carcassonne, France
+copyright=© Buena Vista Images / Stone / Getty Images
