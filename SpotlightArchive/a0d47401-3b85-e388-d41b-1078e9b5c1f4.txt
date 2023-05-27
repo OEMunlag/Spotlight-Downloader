@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13NEu?ver=cc14
+sha256=AXTUoIU7iOPUGxB46bXB9IcOQ9D2WhZeTNJ6e9Bo7xs=
+filesize=1743567
+title=Meteora, Greece
+copyright=© Ed Freeman / Stone / Getty Images
