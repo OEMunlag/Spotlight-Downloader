@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW13NEp?ver=7d92
+sha256=W4pTKmbO5C4NKx9ujbs5ixz2N9aS0toZn+AShcqxmro=
+filesize=1824612
+title=Chapada Diamantina, Brazil
+copyright=© Aldo Pavan / The Image Bank / Getty Images

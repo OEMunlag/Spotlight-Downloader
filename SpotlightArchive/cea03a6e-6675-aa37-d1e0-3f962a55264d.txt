@@ -1,0 +1,6 @@
+﻿[SpotlightImage]
+uri=https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW143hO?ver=f1dd
+sha256=bjqgznVmN6rR4D+WKlUmTZ69gAdFqk3ihlvncltlwU8=
+filesize=1801039
+title=Tenorio Volcano National Park, Costa Rica
+copyright=© Matteo Colombo / Moment / Getty Images
